@@ -37,11 +37,11 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
                     <h6 class="footer-widget__title mb-20">Menu Title</h6>
                     <ul class="footer-widget__list">
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
+                        <li><a href="#" class="hover-style-link">Forum Support</a></li>
+                        <li><a href="#" class="hover-style-link">Help & FAQ</a></li>
+                        <li><a href="#" class="hover-style-link">Contact Us</a></li>
+                        <li><a href="#" class="hover-style-link">Pricing and plans</a></li>
+                        <li><a href="#" class="hover-style-link">Cookies Policy</a></li>
                     </ul>
                 </div>
 
