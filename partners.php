@@ -83,8 +83,8 @@
 
                     <div class="row">
                         <div class="col-12">
-                            <div class="feature-list__one">
-                                <div class="row">
+                            <div class="feature-list__one ">
+                                <div class="row d-flex justify-content-center">
                                     <div class="col-lg-3 col-md-6 wow move-up">
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
@@ -220,7 +220,7 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="feature-list__one">
-                                <div class="row">
+                                <div class="row d-flex justify-content-center">
                                     <div class="col-lg-3 col-md-6 wow move-up">
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">

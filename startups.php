@@ -40,7 +40,7 @@
                 <div class="col-12">
                     <div class="breadcrumb_box text-center">
                         <h1 class="breadcrumb-title text-color-primary">Startups</h1>
-                       
+
                     </div>
                 </div>
             </div>
@@ -55,321 +55,124 @@
     <div id="main-wrapper">
         <div class="site-wrapper-reveal">
             <div class="bg-white">
-                <!-- ============ Team Member Wrapper Start =============== -->
-                <div class="team-member-wrapper section-space--pt_100 section-space--pb_40">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="section-title section-space--mb_60">
-                                    <h3 class="heading">Our <span class="text-color-primary">experience </span> experts</h3>
-                                    <p class="text mt-30">Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. </p>
 
-                                    <div class="sider-title-button-box mt-30">
-                                        <a href="#" class="ht-btn ht-btn-md">Join us now</a>
-                                        <a href="#" class="btn-text font-weight--bold small-mt__20">View all team <i class="ml-1 button-icon far fa-long-arrow-right"></i></a>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-lg-8 ht-team-member-style-one">
-                                <div class="row">
-                                    <div class="col-lg-6 col-md-6 wow move-up">
-                                        <div class="grid-item">
-                                            <div class="ht-team-member">
-                                                <div class="team-image">
-                                                    <img class="img-fluid" src="assets/images/team/team-member-01-370x250.webp" alt="">
-                                                    <div class="social-networks">
-                                                        <div class="inner">
-                                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
-                                                            </a>
-                                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
-                                                            </a>
-                                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="team-info ">
-                                                    <h5 class="name">Dollie Horton </h5>
-                                                    <div class="position">Marketing</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 wow move-up">
-                                        <div class="grid-item">
-                                            <div class="ht-team-member">
-                                                <div class="team-image">
-                                                    <img class="img-fluid" src="assets/images/team/team-member-07-370x250.webp" alt="">
-                                                    <div class="social-networks">
-                                                        <div class="inner">
-                                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
-                                                            </a>
-                                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
-                                                            </a>
-                                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="team-info ">
-                                                    <h5 class="name">Stephen Mearsley </h5>
-                                                    <div class="position">President & CEO</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 wow move-up">
-                                        <div class="grid-item">
-                                            <div class="ht-team-member">
-                                                <div class="team-image">
-                                                    <img class="img-fluid" src="assets/images/team/team-member-04-370x250.webp" alt="">
-                                                    <div class="social-networks">
-                                                        <div class="inner">
-                                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
-                                                            </a>
-                                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
-                                                            </a>
-                                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="team-info ">
-                                                    <h5 class="name">Maggie Strickland </h5>
-                                                    <div class="position">Financial Services</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 wow move-up">
-                                        <div class="grid-item">
-                                            <div class="ht-team-member">
-                                                <div class="team-image">
-                                                    <img class="img-fluid" src="assets/images/team/team-member-02-370x250.webp" alt="">
-                                                    <div class="social-networks">
-                                                        <div class="inner">
-                                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
-                                                            </a>
-                                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
-                                                            </a>
-                                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="team-info ">
-                                                    <h5 class="name">Monica Blews</h5>
-                                                    <div class="position">Project manager</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ============ Team Member Wrapper End =============== -->
-
-                <!-- ============ Team Member Wrapper Start =============== -->
-                <div class="team-member-wrapper section-space--pt_100 section-space--pb_70 bg-gray">
+                <!--====================  brand logo slider area ====================-->
+                <div class="brand-logo-slider-area section-space--ptb_60">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="section-title section-space--mb_60 text-center">
-                                    <h3 class="heading">We pride ourselves on having a team <br> of <span class="text-color-primary">highly-skilled</span> experts</h3>
+                                    <h3 class="heading">Cohort <span class="text-color-primary">1</span> </h3>
                                 </div>
                             </div>
                         </div>
-                        <div class="row ht-team-member-style-two">
-                            <div class="col-lg-4 col-md-6 wow move-up">
-                                <div class="grid-item">
-                                    <div class="ht-team-member">
-                                        <div class="team-image">
-                                            <img class="img-fluid" src="assets/images/team/team-member-07-370x455.webp" alt="">
-                                            <div class="social-networks">
-                                                <div class="inner">
-                                                    <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                                    </a>
-                                                </div>
+
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <!-- brand logo slider -->
+                                <div class="brand-logo-slider__container-area">
+                                    <div class="swiper-container brand-logo-slider__container">
+                                        <div class="swiper-wrapper brand-logo-slider__one">
+                                            <div class="swiper-slide brand-logo brand-logo--slider">
+                                                <a href="https://afiapharma.com/">
+                                                    <div class="brand-logo__image">
+                                                        <img src="assets/images/startups/cohort-1/Afiapharma.png" class="img-fluid" alt="">
+                                                    </div>
+                                                    <div class="brand-logo__image-hover">
+                                                        <img src="assets/images/startups/cohort-1/Afiapharma.png" class="img-fluid" alt="">
+                                                    </div>
+                                                </a>
                                             </div>
-                                        </div>
-                                        <div class="team-info text-center">
-                                            <h5 class="name">Dollie Horton </h5>
-                                            <div class="position">Marketing</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 wow move-up">
-                                <div class="grid-item">
-                                    <div class="ht-team-member">
-                                        <div class="team-image">
-                                            <img class="img-fluid" src="assets/images/team/team-member-01-370x455.webp" alt="">
-                                            <div class="social-networks">
-                                                <div class="inner">
-                                                    <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                                    </a>
-                                                </div>
+                                            <div class="swiper-slide brand-logo brand-logo--slider">
+                                                <a href="http://companion.rw/">
+                                                    <div class="brand-logo__image">
+                                                        <img src="assets/images/startups/cohort-1/Companionapp.jpg" class="img-fluid" alt="">
+                                                    </div>
+                                                    <div class="brand-logo__image-hover">
+                                                        <img src="assets/images/startups/cohort-1/Companionapp.jpg" class="img-fluid" alt="">
+                                                    </div>
+                                                </a>
                                             </div>
-                                        </div>
-                                        <div class="team-info text-center">
-                                            <h5 class="name">Stephen Mearsley </h5>
-                                            <div class="position">President & CEO</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 wow move-up">
-                                <div class="grid-item">
-                                    <div class="ht-team-member">
-                                        <div class="team-image">
-                                            <img class="img-fluid" src="assets/images/team/team-member-06-370x455.webp" alt="">
-                                            <div class="social-networks">
-                                                <div class="inner">
-                                                    <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                                    </a>
-                                                </div>
+                                            <div class="swiper-slide brand-logo brand-logo--slider">
+                                                <a href="http://www.flydenga.com/">
+                                                    <div class="brand-logo__image">
+                                                        <img src="assets/images/startups/cohort-1/denga.png" class="img-fluid" alt="">
+                                                    </div>
+                                                    <div class="brand-logo__image-hover">
+                                                        <img src="assets/images/startups/cohort-1/denga.png" class="img-fluid" alt="">
+                                                    </div>
+                                                </a>
                                             </div>
-                                        </div>
-                                        <div class="team-info text-center">
-                                            <h5 class="name">Maggie Strickland </h5>
-                                            <div class="position">Financial Services</div>
+                                            <div class="swiper-slide brand-logo brand-logo--slider">
+                                                <a href="http://digi-dibia.com/">
+                                                    <div class="brand-logo__image">
+                                                        <img src="assets/images/startups/cohort-1/Digidibia.jpg" class="img-fluid" alt="">
+                                                    </div>
+                                                    <div class="brand-logo__image-hover">
+                                                        <img src="assets/images/startups/cohort-1/Digidibia.jpg" class="img-fluid" alt="">
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="swiper-slide brand-logo brand-logo--slider">
+                                                <a href="http://www.dotpharma.rw/">
+                                                    <div class="brand-logo__image">
+                                                        <img src="assets/images/startups/cohort-1/Dot-Pharma-Logo-2-bw1-no-bg.jpg" class="img-fluid" alt="">
+                                                    </div>
+                                                    <div class="brand-logo__image-hover">
+                                                        <img src="assets/images/startups/cohort-1/Dot-Pharma-Logo-2-bw1-no-bg.jpg" class="img-fluid" alt="">
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="swiper-slide brand-logo brand-logo--slider">
+                                                <a href="https://globalpreeclampsia.org/">
+                                                    <div class="brand-logo__image">
+                                                        <img src="assets/images/startups/cohort-1/Global Pre-Eclempsia Initiative.jpg" class="img-fluid" alt="">
+                                                    </div>
+                                                    <div class="brand-logo__image-hover">
+                                                        <img src="assets/images/startups/cohort-1/Global Pre-Eclempsia Initiative.jpg" class="img-fluid" alt="">
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="swiper-slide brand-logo brand-logo--slider">
+                                                <a href="http://goal3.org/">
+                                                    <div class="brand-logo__image">
+                                                        <img src="assets/images/startups/cohort-1/goal-3.png" class="img-fluid" alt="">
+                                                    </div>
+                                                    <div class="brand-logo__image-hover">
+                                                        <img src="assets/images/startups/cohort-1/goal-3.png" class="img-fluid" alt="">
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="swiper-slide brand-logo brand-logo--slider">
+                                                <a href="https://www.healthdart.co.za/">
+                                                    <div class="brand-logo__image">
+                                                        <img src="assets/images/startups/cohort-1/Healthdart.png" class="img-fluid" alt="">
+                                                    </div>
+                                                    <div class="brand-logo__image-hover">
+                                                        <img src="assets/images/startups/cohort-1/Healthdart.png" class="img-fluid" alt="">
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="swiper-slide brand-logo brand-logo--slider">
+                                                <a href="https://my-doctor.hirwaf.com/">
+                                                    <div class="brand-logo__image">
+                                                        <img src="assets/images/startups/cohort-1/HealthEdu Ltd.jpg" class="img-fluid" alt="">
+                                                    </div>
+                                                    <div class="brand-logo__image-hover">
+                                                        <img src="assets/images/startups/cohort-1/HealthEdu Ltd.jpggit" class="img-fluid" alt="">
+                                                    </div>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="row ht-team-member-style-three">
-
-                            <div class="col-lg-3 col-md-6 col-sm-6 wow move-up">
-                                <div class="grid-item  mb-30">
-                                    <div class="ht-team-member">
-                                        <div class="team-image">
-                                            <img class="img-fluid" src="assets/images/team/team-member-04-370x452.webp" alt="">
-                                            <div class="social-networks">
-                                                <div class="inner">
-                                                    <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="team-info text-center">
-                                            <h6 class="name">Stephany Mearsley </h6>
-                                            <div class="position">Marketing</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-6 col-sm-6 wow move-up">
-                                <div class="grid-item mb-30">
-                                    <div class="ht-team-member">
-                                        <div class="team-image">
-                                            <img class="img-fluid" src="assets/images/team/team-member-05-370x452.webp" alt="">
-                                            <div class="social-networks">
-                                                <div class="inner">
-                                                    <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="team-info text-center">
-                                            <h6 class="name">Monica Blews </h6>
-                                            <div class="position">Marketing</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-6 col-sm-6 wow move-up">
-                                <div class="grid-item mb-30">
-                                    <div class="ht-team-member">
-                                        <div class="team-image">
-                                            <img class="img-fluid" src="assets/images/team/team-member-03-370x452.webp" alt="">
-                                            <div class="social-networks">
-                                                <div class="inner">
-                                                    <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="team-info text-center">
-                                            <h6 class="name">Maggie Strickland </h6>
-                                            <div class="position">Marketing</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-6 col-sm-6 wow move-up">
-                                <div class="grid-item mb-30">
-                                    <div class="ht-team-member">
-                                        <div class="team-image">
-                                            <img class="img-fluid" src="assets/images/team/team-member-02-370x452.webp" alt="">
-                                            <div class="social-networks">
-                                                <div class="inner">
-                                                    <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i class="fab fa-twitter"></i>
-                                                    </a>
-                                                    <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i class="fab fa-instagram"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="team-info text-center">
-                                            <h6 class="name">Dollie Horton </h6>
-                                            <div class="position">Marketing</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-
                     </div>
                 </div>
-                <!-- ============ Team Member Wrapper End =============== -->
-
-
             </div>
         </div>
-
-
-
-
-
-
         <?php require("templates/page-footer.php"); ?>
-
-
     </div>
     <!--====================  scroll top ====================-->
     <a href="#" class="scroll-top" id="scroll-top">
@@ -377,67 +180,6 @@
         <i class="arrow-bottom fal fa-long-arrow-up"></i>
     </a>
     <!--====================  End of scroll top  ====================-->
-    <!-- Start Toolbar -->
-    <div class="demo-option-container">
-        <!-- Start Toolbar -->
-        <div class="aeroland__toolbar">
-            <div class="inner">
-                <a class="quick-option hint--bounce hint--left hint--black primary-color-hover-important" href="#" aria-label="Quick Options">
-                    <i class="fal fa-project-diagram"></i>
-                </a>
-                <a class="hint--bounce hint--left hint--black primary-color-hover-important" target="_blank" href="#contact-us/" aria-label="Support Center">
-                    <i class="fal fa-life-ring"></i>
-                </a>
-                <a class="hint--bounce hint--left hint--black primary-color-hover-important" target="_blank" href="https://1.envato.market/c/417168/275988/4415?subId1=hastheme&amp;subId2=mitech-preview&amp;subId3=https%3A%2F%2Fthemeforest.net%2Fcart%2Fconfigure_before_adding%2F24906742%3Flicense%3Dregular%26size%3Dsource&amp;u=https%3A%2F%2Fthemeforest.net%2Fcart%2Fconfigure_before_adding%2F24906742%3Flicense%3Dregular%26size%3Dsource" aria-label="Purchase Mitech">
-                    <i class="fal fa-shopping-cart"></i>
-                </a>
-            </div>
-        </div>
-        <!-- End Toolbar -->
-        <!-- Start Quick Link -->
-        <div class="demo-option-wrapper">
-            <div class="demo-panel-header">
-                <div class="title">
-                    <h6 class="heading mt-30">IT Solutions Mitech - Technology, IT Solutions & Services Html5 Template</h6>
-                </div>
-
-                <div class="panel-btn mt-20">
-                    <a class="ht-btn ht-btn-md" href="https://1.envato.market/c/417168/275988/4415?subId1=hastheme&amp;subId2=mitech-preview&amp;subId3=https%3A%2F%2Fthemeforest.net%2Fcart%2Fconfigure_before_adding%2F24906742%3Flicense%3Dregular%26size%3Dsource&amp;u=https%3A%2F%2Fthemeforest.net%2Fcart%2Fconfigure_before_adding%2F24906742%3Flicense%3Dregular%26size%3Dsource"><i class="far fa-shopping-cart me-2"></i> Buy Now </a>
-                </div>
-            </div>
-            <div class="demo-quick-option-list">
-                <a class="link hint--bounce hint--black hint--top hint--dark" href="index-appointment.html" aria-label="Appointment">
-                    <img class="img-fluid" src="assets/images/demo-images/home-01.webp" alt="Images">
-                </a>
-                <a class="link hint--bounce hint--black hint--top hint--dark" href="index-infotechno.html" aria-label="Infotechno">
-                    <img class="img-fluid" src="assets/images/demo-images/home-02.webp" alt="Images">
-                </a>
-                <a class="link hint--bounce hint--black hint--top hint--dark" href="index-processing.html" aria-label="Processing">
-                    <img class="img-fluid" src="assets/images/demo-images/home-03.webp" alt="Images">
-                </a>
-                <a class="link hint--bounce hint--black hint--top hint--dark" href="index-services.html" aria-label="Services">
-                    <img class="img-fluid" src="assets/images/demo-images/home-04.webp" alt="Images">
-                </a>
-                <a class="link hint--bounce hint--black hint--top hint--dark" href="index-resolutions.html" aria-label="Resolutions">
-                    <img class="img-fluid" src="assets/images/demo-images/home-05.webp" alt="Images">
-                </a>
-                <a class="link hint--bounce hint--black hint--top hint--dark" href="index-cybersecurity.html" aria-label="Cybersecurity">
-                    <img class="img-fluid" src="assets/images/demo-images/home-06.webp" alt="Images">
-                </a>
-                <a class="link hint--bounce hint--black hint--top hint--dark" href="index-modern-it-company.html" aria-label="Modern IT Company">
-                    <img class="img-fluid" src="assets/images/demo-images/modern-it-company.webp" alt="Images">
-                </a>
-                <a class="link hint--bounce hint--black hint--top hint--dark" href="index-machine-learning.html" aria-label="Machine Learning">
-                    <img class="img-fluid" src="assets/images/demo-images/machine-learning.webp" alt="Images">
-                </a>
-                <a class="link hint--bounce hint--black hint--top hint--dark" href="index-software-innovation.html" aria-label="Software Innovation">
-                    <img class="img-fluid" src="assets/images/demo-images/software-innovation.webp" alt="Images">
-                </a>
-            </div>
-        </div>
-        <!-- End Quick Link -->
-    </div>
-    <!-- End Toolbar -->
 
     <!--====================  mobile menu overlay ====================-->
     <div class="mobile-menu-overlay" id="mobile-menu-overlay">
@@ -651,4 +393,5 @@
 
 
 </body>
+
 </html>
