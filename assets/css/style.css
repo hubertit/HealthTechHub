@@ -289,6 +289,10 @@ ul {
   color: #ff1552;
 }
 
+.text-color-white {
+  color: #ffffff;
+}
+
 .text-black {
   color: #333333 !important;
 }
@@ -794,7 +798,7 @@ input[type="checkbox"] {
   background-size: cover;
   z-index: 3;
   position: relative;
-  background-image: url(../images/bg/title-bar-01-bg.webp);
+  background-image: url(../images/bg/title-bar-01-bg.png);
 }
 
 @media only screen and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {

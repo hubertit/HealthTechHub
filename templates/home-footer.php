@@ -15,23 +15,23 @@
                     </ul>
                 </div>
                 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-                    <h6 class="footer-widget__title mb-20">Menu Title</h6>
+                    <h6 class="footer-widget__title mb-20">Sitemap</h6>
                     <ul class="footer-widget__list">
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
+                        <li><a href="#" class="hover-style-link">About Us</a></li>
+                        <li><a href="#" class="hover-style-link">The Program</a></li>
+                        <li><a href="#" class="hover-style-link">Partners</a></li>
+                        <li><a href="#" class="hover-style-link">Challenges</a></li>
+                        <li><a href="#" class="hover-style-link">Startups</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-                    <h6 class="footer-widget__title mb-20">Menu Title</h6>
+                    <h6 class="footer-widget__title mb-20">More</h6>
                     <ul class="footer-widget__list">
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
-                        <li><a href="#" class="hover-style-link">Menu Item</a></li>
+                        <li><a href="#" class="hover-style-link">IWG</a></li>
+                        <li><a href="#" class="hover-style-link">News</a></li>
+                        <li><a href="#" class="hover-style-link">Contact</a></li>
+                        <li><a href="#" class="hover-style-link">Experts</a></li>
+                        <li><a href="#" class="hover-style-link">Join Mentor Network</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">

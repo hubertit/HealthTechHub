@@ -39,7 +39,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="breadcrumb_box text-center">
-                        <h1 class="breadcrumb-title text-color-primary">Startups</h1>
+                        <h1 class="breadcrumb-title text-color-white">Startups</h1>
 
                     </div>
                 </div>
@@ -47,10 +47,6 @@
         </div>
     </div>
     <!-- breadcrumb-area end -->
-
-
-
-
 
     <div id="main-wrapper">
         <div class="site-wrapper-reveal">
