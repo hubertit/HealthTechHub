@@ -6150,6 +6150,10 @@ ul.footer-widget__horizontal-list li {
   height: 65px;
 }
 
+.partner{
+  width: 100px;
+}
+
 .ht-box-icon.style-02 .icon-box-wrap .icon svg * {
   stroke: currentColor;
 }

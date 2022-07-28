@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Contact Us</title>
+    <title>Partners</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
@@ -44,7 +44,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="breadcrumb_box text-center">
-                        <h2 class="breadcrumb-title">Contact us</h2>
+                        <h2 class="breadcrumb-title">Partners</h2>
                         <!-- breadcrumb-list start -->
                         <ul class="breadcrumb-list">
                             <!-- <li class="breadcrumb-item"><a href="./">Home</a></li> -->

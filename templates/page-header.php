@@ -111,9 +111,9 @@
                                     <ul>
                                         <li class=""> <a href="./#"><span>About</span></a> </li>
                                         <li class=""> <a href="./#theProgram"><span>The Program</span></a> </li>
-                                        <li class=""> <a href="./#partners"><span>Partners</span></a> </li>
+                                        <li class=""> <a href="partners"><span>Partners</span></a> </li>
                                         <li class=""> <a href="#"><span>Challenges</span></a> </li>
-                                        <li class=""> <a href="#"><span>Startups</span></a> </li>
+                                        <li class=""> <a href="startups"><span>Startups</span></a> </li>
                                         <li class=""> <a href="#"><span>IWG</span></a> </li>
                                         <li class=""> <a href="#"><span>News</span></a> </li>
                                         <li class=""> <a href="contactus"><span>Contact</span></a> </li>

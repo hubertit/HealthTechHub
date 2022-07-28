@@ -25,7 +25,7 @@
 </head>
 
 <body>
-    <div class="preloader-activate preloader-active open_tm_preloader">
+    <!-- <div class="preloader-activate preloader-active open_tm_preloader">
         <div class="preloader-area-wrap">
             <div class="spinner d-flex justify-content-center align-items-center h-100">
                 <div class="bounce1"></div>
@@ -33,7 +33,7 @@
                 <div class="bounce3"></div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <?php require("templates/home-header.php"); ?>
 
@@ -45,7 +45,7 @@
                     <div class="swiper-wrapper">
                         <!-- <video src="assets/video/opening.mp4" controls='false' width="100%" autoplay="true"></video> -->
 
-                        <video autoplay muted loop id="introVideo">
+                        <video autoplay muted loop id="introVideo" poster="assets/images/banners/home.jpeg">
                             <source src="assets/video/opening.mp4" type="video/mp4">
                             Your browser does not support HTML5 video.
                         </video>
@@ -184,351 +184,7 @@
             </div> -->
             <!--=========== fun fact Wrapper End ==========-->
 
-            <!--===========  feature-icon-wrapper  Start =============-->
-            <div class="feature-icon-wrapper section-space--ptb_100" id="partners">
-                <div class="container">
-
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="section-title-wrap text-center section-space--mb_40">
-                                <h6 class="section-sub-title mb-20">Partners</h6>
-                                <h3 class="heading">Anchor <span class="text-color-primary"> Partners</span></h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="feature-list__one">
-                                <div class="row">
-
-
-                                    <div class="col-lg-3 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
-                                            <div class="icon-box-wrap">
-                                                <div class="icon">
-                                                    <div class="svg-icon" id="svg-icon-1" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Partner X </h5>
-                                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante quam
-                                                    </div>
-                                                    <div class="feature-btn">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
-
-
-
-                                    <div class="col-lg-3 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
-                                            <div class="icon-box-wrap">
-                                                <div class="icon">
-                                                    <div class="svg-icon" id="svg-icon-2" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Partner X </h5>
-                                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante quam
-                                                    </div>
-                                                    <div class="feature-btn">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
-
-                                    <div class="col-lg-3 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
-                                            <div class="icon-box-wrap">
-                                                <div class="icon">
-                                                    <div class="svg-icon" id="svg-icon-3" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Partner X </h5>
-                                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante quam
-                                                    </div>
-                                                    <div class="feature-btn">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
-
-                                    <div class="col-lg-3 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
-                                            <div class="icon-box-wrap">
-                                                <div class="icon">
-                                                    <div class="svg-icon" id="svg-icon-4" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Partner X </h5>
-                                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante quam
-                                                    </div>
-                                                    <div class="feature-btn">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="section-title-wrap text-center section-space--mb_40">
-
-                                <h3 class="heading mt-40">Rocketfuel <span class="text-color-primary"> Partners</span></h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="feature-list__one">
-                                <div class="row">
-                                    <div class="col-lg-3 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
-                                            <div class="icon-box-wrap">
-                                                <div class="icon">
-                                                    <div class="svg-icon" id="svg-icon-5" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Partner X </h5>
-                                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante quam
-                                                    </div>
-                                                    <div class="feature-btn">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
-
-                                    <div class="col-lg-3 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
-                                            <div class="icon-box-wrap">
-                                                <div class="icon">
-                                                    <div class="svg-icon" id="svg-icon-6" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Partner X </h5>
-                                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante quam
-                                                    </div>
-                                                    <div class="feature-btn">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
-
-
-
-                                    <div class="col-lg-3 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
-                                            <div class="icon-box-wrap">
-                                                <div class="icon">
-                                                    <div class="svg-icon" id="svg-icon-7" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Partner X </h5>
-                                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante quam
-                                                    </div>
-                                                    <div class="feature-btn">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
-
-                                    <div class="col-lg-3 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
-                                            <div class="icon-box-wrap">
-                                                <div class="icon">
-                                                    <div class="svg-icon" id="svg-icon-8" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Partner X </h5>
-                                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante quam
-                                                    </div>
-                                                    <div class="feature-btn">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="section-title-wrap text-center section-space--mb_40">
-
-                                <h3 class="heading mt-40">Contributors <span class="text-color-primary"> Partners</span></h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="feature-list__one">
-                                <div class="row">
-                                    <div class="col-lg-3 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
-                                            <div class="icon-box-wrap">
-                                                <div class="icon">
-                                                    <div class="svg-icon" id="svg-icon-9" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Partner X </h5>
-                                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante quam
-                                                    </div>
-                                                    <div class="feature-btn">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
-
-                                    <div class="col-lg-3 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
-                                            <div class="icon-box-wrap">
-                                                <div class="icon">
-                                                    <div class="svg-icon" id="svg-icon-10" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Partner X </h5>
-                                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante quam
-                                                    </div>
-                                                    <div class="feature-btn">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
-
-
-
-                                    <div class="col-lg-3 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
-                                            <div class="icon-box-wrap">
-                                                <div class="icon">
-                                                    <div class="svg-icon" id="svg-icon-11" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Partner X </h5>
-                                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante quam
-                                                    </div>
-                                                    <div class="feature-btn">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
-
-                                    <div class="col-lg-3 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
-                                            <div class="icon-box-wrap">
-                                                <div class="icon">
-                                                    <div class="svg-icon" id="svg-icon-12" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Partner X </h5>
-                                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante quam
-                                                    </div>
-                                                    <div class="feature-btn">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <!--===========  feature-icon-wrapper  End =============-->
+           
             <!--====================  Conact us Section Start ====================-->
             <div class="contact-us-section-wrappaer processing-contact-us-bg section-space--ptb_120">
                 <div class="container">
@@ -605,113 +261,13 @@
             </div>
             <!--====================  End of testimonial section  ====================-->
 
-            <!--===========  feature-icon-wrapper  Start =============-->
-            <div class="feature-icon-wrapper section-space--ptb_80 border-bottom">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="feature-list__three">
-                                <div class="row">
-                                    <div class="col-lg-6 wow move-up">
-                                        <div class="grid-item animate">
-                                            <div class="ht-box-icon style-03">
-                                                <div class="icon-box-wrap">
-                                                    <div class="content-header">
-                                                        <div class="icon">
-                                                            <i class="fal fa-life-ring"></i>
-                                                        </div>
-                                                        <h5 class="heading">
-                                                            Quality Assurance System
-                                                        </h5>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="text">Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management.</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 wow move-up">
-                                        <div class="grid-item animate">
-                                            <div class="ht-box-icon style-03">
-                                                <div class="icon-box-wrap">
-                                                    <div class="content-header">
-                                                        <div class="icon">
-                                                            <i class="fal fa-lock-alt"></i>
-                                                        </div>
-                                                        <h5 class="heading">
-                                                            Accurate Testing Processes
-                                                        </h5>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="text">Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 wow move-up">
-                                        <div class="grid-item animate">
-                                            <div class="ht-box-icon style-03">
-                                                <div class="icon-box-wrap">
-                                                    <div class="content-header">
-                                                        <div class="icon">
-                                                            <i class="fal fa-globe"></i>
-                                                        </div>
-                                                        <h5 class="heading">
-                                                            Smart API Generation
-                                                        </h5>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="text">Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 wow move-up">
-                                        <div class="grid-item animate">
-                                            <div class="ht-box-icon style-03">
-                                                <div class="icon-box-wrap">
-                                                    <div class="content-header">
-                                                        <div class="icon">
-                                                            <i class="fal fa-medal"></i>
-                                                        </div>
-                                                        <h5 class="heading">
-                                                            Infrastructure Integration Technology
-                                                        </h5>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--=========== feature-icon-wrapper End =============-->
-
-
-
-
-
-
-
-
-
-
             <!--========== Call to Action Area Start ============-->
             <div class="cta-image-area_one section-space--ptb_80 cta-bg-image_one">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-8 col-lg-7">
                             <div class="cta-content md-text-center">
-                                <h3 class="heading text-white">Lorem ipsum dolor sit amet, consectetur  <span class="text-color-secondary"> success</span></h3>
+                                <h3 class="heading text-white">You new to have a convo with us? Feel free, we are <span class="text-color-secondary"> here for you</span></h3>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-5">
@@ -764,7 +320,7 @@
                                                 </div>
                                             </a>
                                         </div>
-                                        
+
                                     </div>
                                 </div>
                             </div>
