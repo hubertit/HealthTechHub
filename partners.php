@@ -73,43 +73,191 @@
             <!--====================  Conact us Section Start ====================-->
             <div class="contact-us-section-wrappaer section-space--pt_100 section-space--pb_70">
                 <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 col-lg-6">
-                            <div class="conact-us-wrap-one mb-30">
-                                <h3 class="heading">To make requests for <br>further information, <br><span class="text-color-primary">contact us</span> via our social channels. </h3>
-                                <div class="sub-heading">We just need a couple of hours! <br> No more than 2 working days since receiving your message.</div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-6 col-lg-6">
-                            <div class="contact-form-wrap">
-
-                                <!-- <form id="contact-form" action="http://whizthemes.com/mail-php/jowel/mitech/php/mail.php" method="post"> -->
-                                <form id="contact-form" action="" method="post">
-                                    <div class="contact-form">
-                                        <div class="contact-input">
-                                            <div class="contact-inner">
-                                                <input name="con_name" type="text" placeholder="Name *">
-                                            </div>
-                                            <div class="contact-inner">
-                                                <input name="con_email" type="email" placeholder="Email *">
-                                            </div>
-                                        </div>
-                                        <div class="contact-inner">
-                                            <input name="con_subject" type="text" placeholder="Subject *">
-                                        </div>
-                                        <div class="contact-inner contact-message">
-                                            <textarea name="con_message" placeholder="Please describe what you need."></textarea>
-                                        </div>
-                                        <div class="submit-btn mt-20">
-                                            <button class="ht-btn ht-btn-md" type="submit">Send message</button>
-                                            <p class="form-messege"></p>
-                                        </div>
-                                    </div>
-                                </form>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="section-title-wrap text-center section-space--mb_40">
+                                <h3 class="heading mt-40">Anchor <span class="text-color-primary"> Partners</span></h3>
                             </div>
                         </div>
                     </div>
+
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="feature-list__one">
+                                <div class="row">
+                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-icon style-01 single-svg-icon-box">
+                                            <div class="icon-box-wrap">
+                                                <img src="assets/images/partners/anchor/global-fund.png" class="img-fluid partner" alt="">
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
+                                    </div>
+
+                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-icon style-01 single-svg-icon-box">
+                                            <div class="icon-box-wrap">
+                                                <img src="assets/images/partners/anchor/norrskenf.png" class="img-fluid partner" alt="">
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
+                                    </div>
+
+                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-icon style-01 single-svg-icon-box">
+                                            <div class="icon-box-wrap">
+                                                <img src="assets/images/partners/anchor/norrsken.png" class="img-fluid partner" alt="">
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="section-title-wrap text-center section-space--mb_40 mt-40">
+
+                                <h3 class="heading">Rocket Fuel <span class="text-color-primary"> Partners</span></h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="feature-list__one">
+                                <div class="row">
+
+                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-icon style-01 single-svg-icon-box">
+                                            <div class="icon-box-wrap">
+                                                <img src="assets/images/partners/rocketfuel/microsoftafrica.jpeg" class="img-fluid partner" alt="">
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
+                                    </div>
+
+                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-icon style-01 single-svg-icon-box">
+                                            <div class="icon-box-wrap">
+                                                <img src="assets/images/partners/rocketfuel/C4IRRwanda.png" class="img-fluid partner" alt="">
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
+                                    </div>
+
+
+
+                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-icon style-01 single-svg-icon-box">
+                                            <div class="icon-box-wrap">
+                                                <!-- <div class="icon">
+                                                    <div class="svg-icon" id="svg-icon-3" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
+                                                </div> -->
+                                                <div class="content">
+                                                    <h5 class="heading">C/Can </h5>
+                                                    <div class="text">
+                                                    </div>
+                                                    <!-- <div class="feature-btn">
+                                                        <a href="#">
+                                                            <span class="button-text">Discover now</span>
+                                                            <i class="far fa-long-arrow-right"></i>
+                                                        </a>
+                                                    </div> -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
+                                    </div>
+
+                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-icon style-01 single-svg-icon-box">
+                                            <div class="icon-box-wrap">
+                                                <!-- <div class="icon">
+                                                    <div class="svg-icon" id="svg-icon-4" data-svg-icon="assets/images/svg/linea-basic-case.svg"></div>
+                                                </div> -->
+                                                <div class="content">
+                                                    <h5 class="heading">Uni Basel </h5>
+                                                    <div class="text">
+                                                    </div>
+                                                    <!-- <div class="feature-btn">
+                                                        <a href="#">
+                                                            <span class="button-text">Discover now</span>
+                                                            <i class="far fa-long-arrow-right"></i>
+                                                        </a>
+                                                    </div> -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="section-title-wrap text-center section-space--mb_40">
+
+                                <h3 class="heading mt-40">Contributors <span class="text-color-primary"> Partners</span></h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="feature-list__one">
+                                <div class="row">
+                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-icon style-01 single-svg-icon-box">
+                                            <div class="icon-box-wrap">
+                                                <img src="assets/images/partners/contributers/worldbank.jpeg" class="img-fluid partner" alt="">
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
+                                    </div>
+
+                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-icon style-01 single-svg-icon-box">
+                                            <div class="icon-box-wrap">
+                                                <img src="assets/images/partners/contributers/dimangi.png" class="img-fluid partner" alt="">
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
+                                    </div>
+
+
+                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                        <!-- ht-box-icon Start -->
+                                        <div class="ht-box-icon style-01 single-svg-icon-box">
+                                            <div class="icon-box-wrap">
+                                                <img src="assets/images/partners/contributers/babyl.png" class="img-fluid partner" alt="">
+                                            </div>
+                                        </div>
+                                        <!-- ht-box-icon End -->
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
             <!--====================  Conact us Section End  ====================-->
@@ -138,6 +286,7 @@
             <!--========== Call to Action Area End ============-->
 
         </div>
+
 
         <?php require("templates/page-footer.php"); ?>
     </div>
