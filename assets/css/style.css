@@ -3402,10 +3402,10 @@ input[type="checkbox"] {
 .navigation-menu > ul > li > a {
   display: block;
   color: #000000;
-  padding: 21px 2px;
+  padding: 18px 2px;
   position: relative;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.18;
   -webkit-transition: all 0.0s ease-in-out;
   -o-transition: all 0.0s ease-in-out;
