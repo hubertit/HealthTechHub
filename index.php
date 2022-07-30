@@ -44,10 +44,10 @@
                     <div class="row align-items-center">
                         <div class="col-lg-8 col-md-7">
                             <div class="machine-learning-hero-text wow move-up">
-                                <h1 class="font-weight--reguler text-white mb-15"><span class="text-color-secondary">The program</span> <br> Startup categories</h1>
-                                <p>Our startups are categorized to ensure maximum utilization of the resources we allocate for them and their target beneficiaries.</p>
+                                <h1 class="font-weight--reguler text-white mb-15"><span class="text-color-secondary">HealthTech Hub </span> <br> </h1>
+                                <p>WE HELP GOVERNMENTS AND START-UPS COLLABORATE ON TECHNOLOGY-ENABLED INNOVATIONS THAT STRENGTHEN HEALTH SYSTEMS IN AFRICA.</p>
                                 <div class="hero-button mt-30">
-                                    <a href="#" class="btn btn--secondary">Free Sample</a>
+                                    <a href="#" class="btn btn--secondary">Startups</a>
                                     <div class="hero-popup-video video-popup">
                                         <a href="#" class="video-link">
                                             <div class="video-content">
@@ -113,20 +113,20 @@
                     <div class="row">
                         <div class="col-md-3 col-sm-6 wow move-up">
                             <div class="fun-fact--five text-center">
-                                <div class="fun-fact__count counter">1970</div>
-                                <h6 class="fun-fact__text">Happy clients</h6>
+                                <div class="fun-fact__count counter">28</div>
+                                <h6 class="fun-fact__text">Startups</h6>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 wow move-up">
                             <div class="fun-fact--five text-center">
-                                <div class="fun-fact__count counter">491</div>
-                                <h6 class="fun-fact__text">Finished projects</h6>
+                                <div class="fun-fact__count counter">15</div>
+                                <h6 class="fun-fact__text">Partners</h6>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 wow move-up">
                             <div class="fun-fact--five text-center">
-                                <div class="fun-fact__count counter">245</div>
-                                <h6 class="fun-fact__text">Skilled Experts</h6>
+                                <div class="fun-fact__count counter">1000+</div>
+                                <h6 class="fun-fact__text">Hosts</h6>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 wow move-up">
@@ -148,8 +148,10 @@
                             <!-- section-title-wrap Start -->
                             <div class="section-title-wrap text-left section-space--mb_30">
                                 <h6 class="section-sub-title mb-20">ABOUT COMPANY</h6>
-                                <h2 class="heading">Everyone in your <span class="text-color-primary">organization</span> <br>
-                                    can make an impact with <span class="text-color-primary">AI</span>
+                                <h2 class="heading">The HealthTech Hub Africa is a  <span class="text-color-primary">health tech accelerator</span> <br>
+                                    
+ based in Kigali, Rwanda. The hub, located at the and powered by 
+ <span class="text-color-primary">the Novartis Foundation</span>
                                 </h2>
                             </div>
                             <!-- section-title-wrap Start -->
@@ -178,18 +180,18 @@
                                     </a>
                                 </div>
                                 <div class="machine-learning-mark-text mt-30">
-                                    Retailer Marks &amp; Spencer created better customer experience with Contact Center AI from Mitech Cloud.
+                                Our location: 
+Kigali, Rwanda
+
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-5 ms-auto mt-30">
                             <div class="machine-learning-about-content">
                                 <div class="section-title mb-20">
-                                    <h4>Innovate within your existing workflow</h4>
-                                    <p class="dec-text mt-20">Mitech Cloud AI helps solve your most important business problems
-                                        end-to-end with prepackaged solutions. Realize the value of your AI
-                                        investment sooner, put AI in the hands of those closest to your business,
-                                        and reduce friction to adoption across your organization.</p>
+                                    <h4>the HealthTech Hub Innovation Program</h4>
+                                    <p class="dec-text mt-20">The HealthTech Hub Africa is a health tech accelerator based in Kigali, Rwanda. The hub, located at the Norrsken East Africa House and powered by the Novartis Foundation, hosts 30 startups from around Africa. For one full year, all the startups have unlimited access to the state-of-the-art space and are part of the HealthTech Hub Innovation Program, which includes capability-building opportunities, partner match-making with the public and private sectors, and mentorship and opportunities to test and validate their solutions in the public health system. Lastly, all have access to the hub’s community of health tech mentors, peer innovators, and experts.
+</p>
                                     <div class="button-box mt-30">
                                         <a href="#" class="ht-btn ht-btn-md">Talk to a consultant</a>
                                     </div>
