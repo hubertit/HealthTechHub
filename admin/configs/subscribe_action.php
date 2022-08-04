@@ -1,6 +1,6 @@
 <?php 
 include_once 'configs/Database.php';
-include_once 'class/Subscription.php';
+include_once 'class/subscription.php';
 
 $database = new Database();
 $db = $database->getConnection();
