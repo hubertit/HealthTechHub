@@ -410,7 +410,7 @@
  
     var brandLogoSlider = new Swiper('.brand-logo-slider__container', {
         slidesPerView : 6,
-        loop: true,
+        loop: false,
         speed: 1000,
         spaceBetween : 30,
         autoplay: {

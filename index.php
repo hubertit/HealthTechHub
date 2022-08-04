@@ -11,6 +11,16 @@
     <link rel="icon" href="assets/images/favicon.png">
     <link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
     <link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
+    <link href="assets/css/video-js.css" rel="stylesheet" />
+
+    <style>
+        .vjs-default-skin .vjs-big-play-button {
+            left: 40% !important;
+            top: 40% !important;
+            width: 20% !important;
+            height: 20% !important;
+        }
+    </style>
 
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
@@ -21,110 +31,241 @@
             min-width: 100%;
             min-height: 100%;
         }
+
+        #fade {
+            display: none;
+            position: fixed;
+            top: 0%;
+            left: 0%;
+            width: 100%;
+            height: 100%;
+            background-color: black;
+            z-index: 1001;
+            -moz-opacity: 0.8;
+            opacity: .80;
+            filter: alpha(opacity=80);
+        }
+
+        #light {
+            display: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            max-width: 600px;
+            max-height: 360px;
+            margin-left: -300px;
+            margin-top: -180px;
+            border: 2px solid #FFF;
+            background: #FFF;
+            z-index: 1002;
+            overflow: visible;
+        }
+
+        #boxclose {
+            float: right;
+            cursor: pointer;
+            color: #fff;
+            border: 1px solid #AEAEAE;
+            border-radius: 3px;
+            background: #222222;
+            font-size: 31px;
+            font-weight: bold;
+            display: inline-block;
+            line-height: 0px;
+            padding: 11px 3px;
+            position: absolute;
+            right: 2px;
+            top: 2px;
+            z-index: 1002;
+            opacity: 0.9;
+        }
+
+        .boxclose:before {
+            content: "×";
+        }
+
+        #fade:hover~#boxclose {
+            display: none;
+        }
+
+        .test:hover~.test2 {
+            display: none;
+        }
     </style>
 </head>
 
 <body>
-    <!-- <div class="preloader-activate preloader-active open_tm_preloader">
-        <div class="preloader-area-wrap">
-            <div class="spinner d-flex justify-content-center align-items-center h-100">
-                <div class="bounce1"></div>
-                <div class="bounce2"></div>
-                <div class="bounce3"></div>
-            </div>
-        </div>
-    </div> -->
 
     <?php require("templates/home-header.php"); ?>
 
     <div id="main-wrapper">
         <div class="site-wrapper-reveal">
-            <!--============ Resolutions Hero Start ============-->
-            <div class="resolutions-hero-slider position-relative">
-                <div class="swiper-container hero-slider__container">
-                    <div class="swiper-wrapper">
-                        <!-- <video src="assets/video/opening.mp4" controls='false' width="100%" autoplay="true"></video> -->
+            <div class="machine-learning-hero machine-learning-hero-bg">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-8 col-md-7">
+                            <div class="machine-learning-hero-text wow move-up">
 
-                        <video autoplay muted loop id="introVideo" poster="assets/images/banners/home.jpeg">
-                            <source src="assets/video/opening.mp4" type="video/mp4">
-                            Your browser does not support HTML5 video.
-                        </video>
+                                <div id="light">
+                                    <a class="boxclose" id="boxclose" onclick="lightbox_close();"></a>
+                                    <video id="VisaChipCardVideo" width="600" controls>
+                                        <source src="assets/video/presentation.mp4" type="video/mp4">
+                                        <!--Browser does not support <video> tag -->
+                                    </video>
+                                </div>
+
+                                <div id="fade" onClick="lightbox_close();"></div>
+
+
+                                <h1 class="font-weight--reguler text-white mb-15"><span class="text-color-secondary">Welcome to</span> <br> HealthTech Hub</h1>
+                                <p>We aim to help local authorities tackle the largest health challenges in low-income and underserved populations</p>
+                                <div class="hero-button mt-30">
+                                    <a href="#about" class="btn btn--secondary">Our Story</a>
+                                    <div class="hero-popup-video">
+                                        <a href="#" class="video-link">
+                                            <div class="video-content">
+                                                <div class="video-play">
+                                                    <span class="video-play-icon">
+                                                        <i class="fa fa-play"></i>
+                                                    </span>
+                                                </div>
+                                                <div class="video-text" onclick="lightbox_open();"> Our Work</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- hero brand logo -->
+                            <div class="hero-brand-wrap">
+                                <div class="brand-logo">
+                                    <a href="https://www.norrsken.org/eastafrica" target="_blank">
+                                        <div class="brand-logo__image">
+                                            <img src="assets/images/partners/norrsken.png" width="150" class="img-fluid" alt="">
+                                        </div>
+                                        <div class="brand-logo__image-hover">
+                                            <img src="assets/images/partners/norrsken.png" width="150" class="img-fluid" alt="">
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="brand-logo">
+                                    <a href="https://www.theglobalfund.org/en/" target="_blank">
+                                        <div class="brand-logo__image">
+                                            <img src="assets/images/partners/theglobal.png" width="150" class="img-fluid" alt="">
+                                        </div>
+                                        <div class="brand-logo__image-hover">
+                                            <img src="assets/images/partners/theglobal.png" width="150" class="img-fluid" alt="">
+                                        </div>
+                                    </a>
+                                </div>
+
+                                <div class="brand-logo">
+                                    <a href="https://www.novartisfoundation.org/" target="_blank">
+                                        <div class="brand-logo__image">
+                                            <img src="assets/images/partners/novartis.png" width="200" class="img-fluid" alt="">
+                                        </div>
+                                        <div class="brand-logo__image-hover">
+                                            <img src="assets/images/partners/novartis.png" width="200" class="img-fluid" alt="">
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- hero brand logo -->
+                        </div>
                     </div>
                 </div>
-                <div class="vc_row-separator center_curve_alt bottom">
-                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 100 100">
-                        <path d="M 0 0 L0 100 L100 100 L100 0 Q 50 200 0 0"></path>
-                    </svg>
+            </div>
+            <!--============ Infotechno Hero End ============-->
+            <!--=========== fun fact Wrapper Start ==========-->
+            <div class="fun-fact-wrapper bg-theme-three section-space--pt_40">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6 wow move-up">
+                            <div class="fun-fact--five text-center">
+                                <div class="fun-fact__count counter">28</div>
+                                <h6 class="fun-fact__text">Startups</h6>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 wow move-up">
+                            <div class="fun-fact--five text-center">
+                                <div class="fun-fact__count counter">15</div>
+                                <h6 class="fun-fact__text">Partners</h6>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-sm-6 wow move-up">
+                            <div class="fun-fact--five text-center">
+                                <div class="fun-fact__count ">20+</div>
+                                <h6 class="fun-fact__text">Experts</h6>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-sm-6 wow move-up">
+                            <div class="fun-fact--five text-center">
+                                <div class="fun-fact__count ">10+</div>
+                                <h6 class="fun-fact__text">Mentors</h6>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-sm-6 wow move-up">
+                            <div class="fun-fact--five text-center">
+                                <div class="fun-fact__count ">10</div>
+                                <h6 class="fun-fact__text">Countries</h6>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <!--============ Resolutions Hero End ============-->
+            <!--=========== fun fact Wrapper End ==========-->
 
-
-            <!--===========  feature-images-wrapper  Start =============-->
-            <div class="feature-images-wrapper bg-gray" id="theProgram">
+            <!--=========== About Company Area Start ==========-->
+            <div class="machine-learning-about-company-area machine-learning-about-bg section-space--ptb_120" id="about">
                 <div class="container">
-
                     <div class="row">
-                        <div class="col-12">
-                            <div class="feature-images__five resolutions-hero-bottom">
-                                <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section-title-wrap Start -->
+                            <div class="section-title-wrap text-left section-space--mb_30">
+                                <h6 class="section-sub-title mb-20">ABOUT THE HUB</h6>
+                                <h4 class="heading">The HealthTech Hub Africa is a <span class="text-color-primary">Health Tech accelerator</span> <br>
 
-                                    <div class="col-lg-6 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-images style-05">
-                                            <div class="image-box-wrap">
-                                                <div class="box-image">
-                                                    <div class="default-image">
-                                                        <img class="img-fulid" src="assets/images/icons/mitech-home-resolutions-box-image-01-100x98.webp" alt="">
-                                                    </div>
-                                                    <div class="hover-images">
-                                                        <img class="img-fulid" src="assets/images/icons/mitech-home-resolutions-box-image-01-hover-100x98.webp" alt="">
-                                                    </div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Growth start-ups</h5>
-                                                    <div class="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
-                                                    </div>
-                                                    <div class="box-images-arrow">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
+                                    based in Kigali, Rwanda. The hub, located at the and powered by
+                                    <span class="text-color-primary">the Novartis Foundation</span>
+                                </h4>
+                            </div>
+                            <!-- section-title-wrap Start -->
+                        </div>
+                    </div>
+                    <div class="row">
 
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
-                                    </div>
+                        <div class="col-lg-5">
+                            <div class="image-inner-video-section">
+                                <div class="main-video-box video-popup">
+                                    <video id="my-video" class="video-js" controls preload="auto" width="100%" height="auto" poster="assets/images/banners/n-popup.webp" data-setup="{}" style="width: 100% !important; height:auto !important">
+                                        <source src="assets/video/opening.mp4" type="video/mp4" />
+                                        <p class="vjs-no-js">
+                                        </p>
+                                    </video>
 
-                                    <div class="col-lg-6 col-md-6 wow move-up">
-                                        <!-- ht-box-icon Start -->
-                                        <div class="ht-box-images style-05">
-                                            <div class="image-box-wrap">
-                                                <div class="box-image">
-                                                    <div class="default-image">
-                                                        <img class="img-fulid" src="assets/images/icons/mitech-home-resolutions-box-image-02-100x98.webp" alt="">
-                                                    </div>
-                                                    <div class="hover-images">
-                                                        <img class="img-fulid" src="assets/images/icons/mitech-home-resolutions-box-image-02-hover-100x98.webp" alt="">
-                                                    </div>
-                                                </div>
-                                                <div class="content">
-                                                    <h5 class="heading">Scale-up start-ups</h5>
-                                                    <div class="text">It’s possible to simultaneously manage and transform information from one server to another.
-                                                    </div>
-                                                    <div class="box-images-arrow">
-                                                        <a href="#">
-                                                            <span class="button-text">Discover now</span>
-                                                            <i class="far fa-long-arrow-right"></i>
-                                                        </a>
 
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- ht-box-icon End -->
+
+                                    <!-- Video -->
+                                </div>
+                                <div class="machine-learning-mark-text mt-30">
+                                    Our location:
+                                    Kigali, Rwanda
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-7 ms-auto mt-30">
+                            <div class="machine-learning-about-content">
+                                <div class="section-title mb-20">
+                                    <h4>The HealthTech Hub Innovation Program</h4>
+                                    <p class="dec-text mt-20">The HealthTech Hub Africa is a health tech accelerator based in Kigali, Rwanda. The hub, located at the Norrsken East Africa House and powered by the Novartis Foundation, hosts 30 startups from around Africa. For one full year, all the startups have unlimited access to the state-of-the-art space and are part of the HealthTech Hub Innovation Program, which includes capability-building opportunities, partner match-making with the public and private sectors, and mentorship and opportunities to test and validate their solutions in the public health system.
+                                    </p>
+                                    <div class="button-box mt-30">
+                                        <a href="startups" class="ht-btn ht-btn-md">More About The Program</a>
                                     </div>
                                 </div>
                             </div>
@@ -132,10 +273,7 @@
                     </div>
                 </div>
             </div>
-            <!--===========  feature-images-wrapper  End =============-->
-
-
-
+            <!--=========== About Company Area End ==========-->
 
 
             <!--=========== fun fact Wrapper Start ==========-->
@@ -190,20 +328,16 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-lg-6">
                             <div class="conact-us-wrap-one">
-                                <h3 class="heading text-white">Obtaining further information by make a contact with our experienced IT staffs. </h3>
-
-                                <div class="sub-heading text-white">We’re available for 8 hours a day!<br>Contact to require a detailed analysis and assessment of your plan.</div>
-
+                                <h3 class="heading text-white">We aim to help local authorities tackle the largest health challenges in low-income and underserved populations.</h3>
                             </div>
                         </div>
-
                         <div class="col-lg-6 col-lg-6">
                             <div class="contact-info-two text-center">
                                 <div class="icon">
-                                    <span class="fal fa-phone"></span>
+                                    <span class="fal fa-envelope"></span>
                                 </div>
                                 <h6 class="heading font-weight--reguler">Reach out now!</h6>
-                                <h2 class="call-us"><a href="tel:(+250) 788 305 829">(+250) 788 305 829</a></h2>
+                                <!-- <h2 class="call-us"><a href="tel: "> </a></h2> -->
                                 <div class="contact-us-button mt-20">
                                     <a href="#" class="btn btn--secondary">Contact us</a>
                                 </div>
@@ -214,7 +348,7 @@
             </div>
             <!--====================  Conact us Section End  ====================-->
             <!--====================  testimonial section ====================-->
-            <div class="testimonial-slider-area bg-gray section-space--ptb_100">
+            <!-- <div class="testimonial-slider-area bg-gray section-space--ptb_100">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
@@ -257,16 +391,16 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!--====================  End of testimonial section  ====================-->
 
             <!--========== Call to Action Area Start ============-->
-            <div class="cta-image-area_one section-space--ptb_80 cta-bg-image_one">
+            <!-- <div class="cta-image-area_one section-space--ptb_80 cta-bg-image_one">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-8 col-lg-7">
                             <div class="cta-content md-text-center">
-                                <h3 class="heading text-white">You new to have a convo with us? Feel free, we are <span class="text-color-secondary"> here for you</span></h3>
+                            <h3 class="heading text-white">You need to have a conversation with us? Feel free, we are <span class="text-color-secondary"> here for you</span></h3>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-5">
@@ -277,15 +411,15 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!--========== Call to Action Area End ============-->
 
             <!--====================  brand logo slider area ====================-->
-            <div class="brand-logo-slider-area section-space--ptb_60" style="background-color: #000000;">
+            <!-- <div class="brand-logo-slider-area section-space--ptb_60" style="background-color: #000000;">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <!-- brand logo slider -->
+                            <!-- brand logo slider --
                             <div class="brand-logo-slider__container-area">
                                 <div class="swiper-container brand-logo-slider__container">
                                     <div class="swiper-wrapper brand-logo-slider__one">
@@ -302,10 +436,10 @@
                                         <div class="swiper-slide brand-logo brand-logo--slider">
                                             <a href="#">
                                                 <div class="brand-logo__image">
-                                                    <img src="assets/images/partners/bridge.png" class="img-fluid" alt="">
+                                                    <img src="assets/images/partners/theglobal.png" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="brand-logo__image-hover">
-                                                    <img src="assets/images/partners/bridge.png" class="img-fluid" alt="">
+                                                    <img src="assets/images/partners/theglobal.png" class="img-fluid" alt="">
                                                 </div>
                                             </a>
                                         </div>
@@ -326,96 +460,12 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!--====================  End of brand logo slider area  ====================-->
         </div>
-
         <?php require("templates/home-footer.php"); ?>
-
     </div>
-    <!--====================  scroll top ====================-->
-    <a href="#" class="scroll-top" id="scroll-top">
-        <i class="arrow-top fal fa-long-arrow-up"></i>
-        <i class="arrow-bottom fal fa-long-arrow-up"></i>
-    </a>
-    <!--====================  End of scroll top  ====================-->
-
-
-
-    <!--====================  mobile menu overlay ====================-->
-    <div class="mobile-menu-overlay" id="mobile-menu-overlay">
-        <div class="mobile-menu-overlay__inner">
-            <div class="mobile-menu-overlay__header">
-                <div class="container-fluid">
-                    <div class="row align-items-center">
-                        <div class="col-md-6 col-8">
-                            <!-- logo -->
-                            <div class="logo">
-                                <a href="./">
-                                    <img src="assets/images/logo/logo-dark.png" class="img-fluid" alt="">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-4">
-                            <!-- mobile menu content -->
-                            <div class="mobile-menu-content text-end">
-                                <span class="mobile-navigation-close-icon" id="mobile-menu-close-trigger"></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="mobile-menu-overlay__body">
-                <nav class="offcanvas-navigation">
-                    <ul>
-                        <li> <a href="./">About</a> </li>
-                        <li> <a href="#theProgram">The Program</a> </li>
-                        <li> <a href="./">Partners</a> </li>
-                        <li> <a href="./">Challenges</a> </li>
-                        <li> <a href="./">Startups</a> </li>
-                        <li> <a href="./">IWG</a> </li>
-                        <li> <a href="./">News</a> </li>
-                        <li> <a href="./">Contact</a> </li>
-                    </ul>
-                </nav>
-            </div>
-        </div>
-    </div>
-    <!--====================  End of mobile menu overlay  ====================-->
-
-
-
-
-
-
-
-    <!--====================  search overlay ====================-->
-    <div class="search-overlay" id="search-overlay">
-
-        <div class="search-overlay__header">
-            <div class="container-fluid">
-                <div class="row align-items-center">
-                    <div class="col-md-6 ms-auto col-4">
-                        <!-- search content -->
-                        <div class="search-content text-end">
-                            <span class="mobile-navigation-close-icon" id="search-close-trigger"></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="search-overlay__inner">
-            <div class="search-overlay__body">
-                <div class="search-overlay__form">
-                    <form action="#">
-                        <input type="text" placeholder="Search">
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--====================  End of search overlay  ====================-->
-
+    <?php require("templates/mobile-header.php"); ?>
     <!-- JS
     ============================================ -->
     <!-- Modernizer JS -->
@@ -434,7 +484,33 @@
 
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
+    <script src="https://vjs.zencdn.net/7.20.1/video.min.js"></script>
 
+    <script>
+        window.document.onkeydown = function(e) {
+            if (!e) {
+                e = event;
+            }
+            if (e.keyCode == 27) {
+                lightbox_close();
+            }
+        }
+
+        function lightbox_open() {
+            var lightBoxVideo = document.getElementById("VisaChipCardVideo");
+            window.scrollTo(0, 0);
+            document.getElementById('light').style.display = 'block';
+            document.getElementById('fade').style.display = 'block';
+            lightBoxVideo.play();
+        }
+
+        function lightbox_close() {
+            var lightBoxVideo = document.getElementById("VisaChipCardVideo");
+            document.getElementById('light').style.display = 'none';
+            document.getElementById('fade').style.display = 'none';
+            lightBoxVideo.pause();
+        }
+    </script>
 
 </body>
 
