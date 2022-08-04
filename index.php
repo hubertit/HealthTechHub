@@ -322,7 +322,7 @@
             </div> -->
             <!--=========== fun fact Wrapper End ==========-->
 
-            <!--====================  Conact us Section Start ====================-->
+            <!--====================  Contact us Section Start ====================-->
             <div class="contact-us-section-wrappaer processing-contact-us-bg section-space--ptb_120 mt-5">
                 <div class="container">
                     <div class="row align-items-center">

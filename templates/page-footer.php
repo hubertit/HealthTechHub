@@ -49,8 +49,10 @@
                         <h6 class="footer-widget__title mb-20"> E-Newsletter</h6>
                         <p>Subscribe to our E-newsletter to get updates notifications about our Programs and Events</p>
 
-                        <form action="">
-                            <input type="text" class="form-control">
+                        <form action="" id="subscribeForm" method="post">
+                            <input type="email" class="form-control" id="email" placeholder="E-mail" required="">
+                            <span class="text-danger hidden" id="emailError"></span>
+                            <input type="button" id="subscribeButton" value="Subscribe Now">
                         </form>
                         
                     </ul>
