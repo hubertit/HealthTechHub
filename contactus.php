@@ -25,17 +25,6 @@
 
 <body>
 
-
-    <div class="preloader-activate preloader-active open_tm_preloader">
-        <div class="preloader-area-wrap">
-            <div class="spinner d-flex justify-content-center align-items-center h-100">
-                <div class="bounce1"></div>
-                <div class="bounce2"></div>
-                <div class="bounce3"></div>
-            </div>
-        </div>
-    </div>
-
     <?php require("templates/page-header.php"); ?>
 
     <!-- breadcrumb-area start -->
@@ -67,7 +56,6 @@
                         <div class="col-lg-6 col-lg-6">
                             <div class="conact-us-wrap-one mb-30">
                                 <h3 class="heading">To make requests for <br>further information, <br><span class="text-color-primary">contact us</span> via our social channels. </h3>
-                                <div class="sub-heading">We just need a couple of hours! <br> No more than 2 working days since receiving your message.</div>
                             </div>
                         </div>
 
@@ -108,25 +96,11 @@
 
 
             <!--========== Call to Action Area Start ============-->
-            <div class="cta-image-area_one section-space--ptb_80 cta-bg-image_two">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-xl-8 col-lg-7">
-                            <div class="cta-content md-text-center">
-                                <h3 class="heading">You new to have a convo with us? Feel free, we are <span class="text-color-secondary"> here for you</span></h3>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-5">
-                            <div class="cta-button-group--two text-center">
-                                <a href="#" class="btn btn--white btn-one"><span class="btn-icon me-2"><i class="far fa-comment-alt-dots"></i></span> Let's talk</a>
-                                <a href="#" class="btn btn--secondary btn-two "><span class="btn-icon me-2"><i class="far fa-info-circle"></i></span> Get info</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php // require("templates/calltoaction.php"); 
+            ?>
             <!--========== Call to Action Area End ============-->
         </div>
+        <?php require("templates/calltoaction.php"); ?>
         <?php require("templates/page-footer.php"); ?>
     </div>
     <?php require("templates/mobile-header.php"); ?>
@@ -151,8 +125,5 @@
 
 
 </body>
-
-
-<!-- Mirrored from htmldemo.net/mitech/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 25 Jul 2022 09:46:24 GMT -->
 
 </html>

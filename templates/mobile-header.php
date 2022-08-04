@@ -33,25 +33,20 @@
         <div class="mobile-menu-overlay__body">
             <nav class="offcanvas-navigation">
                 <ul>
-                    <li> <a href="./">About</a> </li>
-                    <li> <a href="#theProgram">The Program</a> </li>
-                    <li> <a href="./">Partners</a> </li>
-                    <li> <a href="./">Challenges</a> </li>
-                    <li> <a href="./">Startups</a> </li>
-                    <li> <a href="./">IWG</a> </li>
-                    <li> <a href="./">News</a> </li>
-                    <li> <a href="./">Contact</a> </li>
+                    <li class=""> <a href="./#about"><span>About</span></a> </li>
+                    <li class=""> <a href="startups"><span>The Program</span></a> </li>
+                    <li class=""> <a href="mentors"><span>Mentors</span></a> </li>
+                    <li class=""> <a href="events"><span>Events</span></a> </li>
+                    <li class=""> <a href="partners"><span>Partners</span></a> </li>
+                    <li class=""> <a href="challenges"><span>Challenges</span></a> </li>
+                    <li class=""> <a href="news"><span>News</span></a> </li>
+                    <li class=""> <a href="contactus"><span>Contact</span></a> </li>
                 </ul>
             </nav>
         </div>
     </div>
 </div>
 <!--====================  End of mobile menu overlay  ====================-->
-
-
-
-
-
 
 
 <!--====================  search overlay ====================-->

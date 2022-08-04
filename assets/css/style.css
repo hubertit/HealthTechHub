@@ -14665,8 +14665,8 @@ blockquote {
 
 .ht-problem-solution .item {
   border-bottom: 1px solid #eee;
-  padding-bottom: 50px;
-  margin-bottom: 44px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .ht-problem-solution .item .problem {

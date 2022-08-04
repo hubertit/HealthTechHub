@@ -25,7 +25,7 @@
 
 <body>
 
-
+    <!-- 
     <div class="preloader-activate preloader-active open_tm_preloader">
         <div class="preloader-area-wrap">
             <div class="spinner d-flex justify-content-center align-items-center h-100">
@@ -34,7 +34,7 @@
                 <div class="bounce3"></div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <?php require("templates/page-header.php"); ?>
 
@@ -79,7 +79,9 @@
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">
-                                                <img src="assets/images/partners/anchor/global-fund.png" class="img-fluid partner" alt="">
+                                                <a href="https://www.theglobalfund.org/en/" target="_blank">
+                                                    <img src="assets/images/partners/anchor/global-fund.png" class="img-fluid partner" alt="">
+                                                </a>
                                             </div>
                                         </div>
                                         <!-- ht-box-icon End -->
@@ -89,7 +91,9 @@
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">
-                                                <img src="assets/images/partners/anchor/norrskenf.png" class="img-fluid partner" alt="">
+                                                <a href="https://www.novartisfoundation.org/" target="_blank">
+                                                    <img src="assets/images/partners/anchor/novartis.png" class="img-fluid partner" alt="">
+                                                </a>
                                             </div>
                                         </div>
                                         <!-- ht-box-icon End -->
@@ -99,7 +103,9 @@
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">
-                                                <img src="assets/images/partners/anchor/norrsken.png" class="img-fluid partner" alt="">
+                                                <a href="https://www.norrsken.org/eastafrica" target="_blank">
+                                                    <img src="assets/images/partners/anchor/norrsken.png" class="img-fluid partner" alt="">
+                                                </a>
                                             </div>
                                         </div>
                                         <!-- ht-box-icon End -->
@@ -202,7 +208,7 @@
                         <div class="col-lg-12">
                             <div class="section-title-wrap text-center section-space--mb_40">
 
-                                <h3 class="heading mt-40">Contributors <span class="text-color-primary"> Partners</span></h3>
+                                <h3 class="heading mt-40">Contributor <span class="text-color-primary"> Partners</span></h3>
                             </div>
                         </div>
                     </div>
@@ -250,29 +256,18 @@
 
                 </div>
             </div>
+
+            <div class="mb-5 d-flex justify-content-center">
+                <a href="mailto:sharon@bridgeforbillions.org" target="_blank" class="btn btn-primary">Become A Partner</a>
+            </div>
+
             <!--====================  Conact us Section End  ====================-->
 
 
 
 
             <!--========== Call to Action Area Start ============-->
-            <div class="cta-image-area_one section-space--ptb_80 cta-bg-image_two">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-xl-8 col-lg-7">
-                            <div class="cta-content md-text-center">
-                                <h3 class="heading">You new to have a convo with us? Feel free, we are <span class="text-color-secondary"> here for you</span></h3>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-5">
-                            <div class="cta-button-group--two text-center">
-                                <a href="#" class="btn btn--white btn-one"><span class="btn-icon me-2"><i class="far fa-comment-alt-dots"></i></span> Let's talk</a>
-                                <a href="#" class="btn btn--secondary btn-two "><span class="btn-icon me-2"><i class="far fa-info-circle"></i></span> Get info</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php require("templates/calltoaction.php"); ?>
             <!--========== Call to Action Area End ============-->
         </div>
         <?php require("templates/page-footer.php"); ?>

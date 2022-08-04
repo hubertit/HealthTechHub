@@ -19,12 +19,12 @@
                                 <nav class="navigation-menu">
 
                                     <ul>
-                                        <li class=""> <a href="about"><span>About</span></a> </li>
-                                        <li class=""> <a href="./#theProgram"><span>The Program</span></a> </li>
+                                        <li class=""> <a href="#about"><span>About</span></a> </li>
+                                        <li class=""> <a href="startups"><span>The Program</span></a> </li>
+                                        <li class=""> <a href="mentors"><span>Mentors</span></a> </li>
+                                        <li class=""> <a href="events"><span>Events</span></a> </li>
                                         <li class=""> <a href="partners"><span>Partners</span></a> </li>
-                                        <li class=""> <a href="#"><span>Challenges</span></a> </li>
-                                        <li class=""> <a href="startups"><span>Startups</span></a> </li>
-                                        <li class=""> <a href="#"><span>IWG</span></a> </li>
+                                        <li class=""> <a href="challenges"><span>Challenges</span></a> </li>
                                         <li class=""> <a href="news"><span>News</span></a> </li>
                                         <li class=""> <a href="contactus"><span>Contact</span></a> </li>
                                     </ul>
