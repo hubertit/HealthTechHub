@@ -5,7 +5,7 @@ class Database{
 	private $host  = 'localhost';
     private $user  = 'root';
     private $password   = "";
-    private $database  = "subs"; 
+    private $database  = "tht"; 
     
     public function getConnection(){		
 		$conn = new mysqli($this->host, $this->user, $this->password, $this->database);

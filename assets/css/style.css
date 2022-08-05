@@ -6073,7 +6073,7 @@ ul.footer-widget__horizontal-list li {
 =              13. Box Icon Css              =
 =============================================*/
 .ht-box-icon.style-01 .icon-box-wrap {
-  padding: 36px 10px 26px;
+  padding: 26px 10px 26px;
   border-radius: 5px;
   background: #fff;
   border: 2px solid #eee;
@@ -6085,9 +6085,9 @@ ul.footer-widget__horizontal-list li {
 }
 
 .ht-box-icon.style-01 .icon-box-wrap .icon {
-  height: 65px;
+  height: 105px;
   text-align: center;
-  width: 65px;
+  width: 105px;
   margin: auto;
   margin-bottom: 29px;
   color: #0211a0;
