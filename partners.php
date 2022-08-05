@@ -79,8 +79,8 @@
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">
-                                                <a href="https://www.theglobalfund.org/en/" target="_blank">
-                                                    <img src="assets/images/partners/anchor/global-fund.png" class="img-fluid partner" alt="">
+                                                <a href="https://www.novartisfoundation.org/" target="_blank">
+                                                    <img src="assets/images/partners/anchor/novartis.png" class="img-fluid partner" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -91,8 +91,8 @@
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">
-                                                <a href="https://www.novartisfoundation.org/" target="_blank">
-                                                    <img src="assets/images/partners/anchor/novartis.png" class="img-fluid partner" alt="">
+                                                <a href="https://www.theglobalfund.org/en/" target="_blank">
+                                                    <img src="assets/images/partners/anchor/global-fund.png" class="img-fluid partner" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -135,7 +135,9 @@
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">
-                                                <img src="assets/images/partners/rocketfuel/microsoftafrica.jpeg" class="img-fluid partner" alt="">
+                                                <a href="https://www.microsoft.com/africa/ato" target="_blank">
+                                                    <img src="assets/images/partners/rocketfuel/microsoftafrica.jpeg" class="img-fluid partner" alt="">
+                                                </a>
                                             </div>
                                         </div>
                                         <!-- ht-box-icon End -->
@@ -145,7 +147,9 @@
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">
-                                                <img src="assets/images/partners/rocketfuel/C4IRRwanda.png" class="img-fluid partner" alt="">
+                                                <a href="https://c4ir.rw/" target="_blank">
+                                                    <img src="assets/images/partners/rocketfuel/C4IRRwanda.png" class="img-fluid partner" alt="">
+                                                </a>
                                             </div>
                                         </div>
                                         <!-- ht-box-icon End -->
@@ -221,7 +225,9 @@
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">
-                                                <img src="assets/images/partners/contributers/worldbank.jpeg" class="img-fluid partner" alt="">
+                                                <a href="https://www.worldbank.org/en/about/leadership?cid=ECR_GA_worldbank_EN_EXTP_search&gclid=Cj0KCQjw_7KXBhCoARIsAPdPTfhrhgsA1tcXw55gtkFBNbKzD2NDU24SaDdyrOJqMq_Jz4HuWwmqJaAaAphSEALw_wcB">
+                                                    <img src="assets/images/partners/contributers/worldbank.jpeg" class="img-fluid partner" alt="">
+                                                </a>
                                             </div>
                                         </div>
                                         <!-- ht-box-icon End -->
@@ -231,7 +237,9 @@
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">
-                                                <img src="assets/images/partners/contributers/dimangi.png" class="img-fluid partner" alt="">
+                                                <a href="https://www.dimagi.com/" target="_blank">
+                                                    <img src="assets/images/partners/contributers/dimangi.png" class="img-fluid partner" alt="">
+                                                </a>
                                             </div>
                                         </div>
                                         <!-- ht-box-icon End -->
@@ -242,7 +250,7 @@
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">
-                                                <img src="assets/images/partners/contributers/babyl.png" class="img-fluid partner" alt="">
+                                                <a href="https://www.babyl.rw/" target="_blank"><img src="assets/images/partners/contributers/babyl.png" class="img-fluid partner" alt=""></a>
                                             </div>
                                         </div>
                                         <!-- ht-box-icon End -->

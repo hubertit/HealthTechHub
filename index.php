@@ -143,6 +143,16 @@
                             <!-- hero brand logo -->
                             <div class="hero-brand-wrap">
                                 <div class="brand-logo">
+                                    <a href="https://www.novartisfoundation.org/" target="_blank">
+                                        <div class="brand-logo__image">
+                                            <img src="assets/images/partners/novartis.png" width="200" class="img-fluid" alt="">
+                                        </div>
+                                        <div class="brand-logo__image-hover">
+                                            <img src="assets/images/partners/novartis.png" width="200" class="img-fluid" alt="">
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="brand-logo">
                                     <a href="https://www.norrsken.org/eastafrica" target="_blank">
                                         <div class="brand-logo__image">
                                             <img src="assets/images/partners/norrsken.png" width="150" class="img-fluid" alt="">
@@ -163,16 +173,7 @@
                                     </a>
                                 </div>
 
-                                <div class="brand-logo">
-                                    <a href="https://www.novartisfoundation.org/" target="_blank">
-                                        <div class="brand-logo__image">
-                                            <img src="assets/images/partners/novartis.png" width="200" class="img-fluid" alt="">
-                                        </div>
-                                        <div class="brand-logo__image-hover">
-                                            <img src="assets/images/partners/novartis.png" width="200" class="img-fluid" alt="">
-                                        </div>
-                                    </a>
-                                </div>
+
                             </div>
                             <!-- hero brand logo -->
                         </div>
