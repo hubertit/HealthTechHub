@@ -7,7 +7,7 @@
                     <div class="footer-widget__logo mb-10">
                         <img src="assets/images/logo/logo-dark.png" width="160" height="48" class="img-fluid" alt="">
                     </div>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.5055154726997!2d30.05771311473996!3d-1.950974298577639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dca5a86d814c61%3A0x7d3b83e12b1c11a9!2sNorrsken%20House%20Kigali!5e0!3m2!1sen!2srw!4v1659531101580!5m2!1sen!2srw" width="70%" height="auto" style="border: 1px solid blue;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.5055154726997!2d30.05771311473996!3d-1.950974298577639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dca5a86d814c61%3A0x7d3b83e12b1c11a9!2sNorrsken%20House%20Kigali!5e0!3m2!1sen!2srw!4v1659531101580!5m2!1sen!2srw" width="100%" height="auto" style="border: 1px solid blue;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
                     <h6 class="footer-widget__title mb-20">Sitemap</h6>
