@@ -210,6 +210,26 @@
             </div>
         </div>
 
+        <div class="section-title-wrap text-left section-space--mb_30">
+            
+                                <h6 class="section-sub-title mb-20" style="text-align:center;">The Program</h6>
+                                <p style="text-align:center;">The Hub houses two categories of startups: Growth startups and scale-ups.
+Startups benefit from holistic training and personalized mentoring via online entrepreneurship and mentoring platform. <br>Focused on structuring all aspects of the startups' businesses and capacity before investment and/or after first investments
+. Focused on structuring all aspects of the startups'<br> businesses and capacity before investment and/or after first investments.
+<h6 class="section-sub-title mb-20" style="text-align:center;">Startup Benefits</h6>
+<ul class="benefits" style="text-align:center;">
+<ol type="1">
+<li>A seat in the 10-month innovation program with 2 distinct tracks for the Growth Startups and the Scale ups</li>
+<li>Opportunity to apply for funding to validate their solutions in public health systems in AfricaAccess to the HealthTech Hub Africa public-private partner network</li>
+<li>A spot in the one-year coworking space in Kigali, Rwanda. </li>
+<li>Exposure and partner match-making opportunities</li>
+<li>Life-time access to the alumni network of HealthTech Hub Africa startups and open-source resources</li>
+</ol>
+</ul>
+<br><h6 class="section-sub-title mb-20" style="text-align:center;">Resources for Entrepreneurs:</h6>
+<p style="text-align:center;"><a href = "https://www.bridgeforbillions.org/perks-library/">https://www.bridgeforbillions.org/perks-library/</a></p>
+</div>
+
         <?php require("templates/calltoaction.php"); ?>
 
         <?php require("templates/page-footer.php"); ?>
