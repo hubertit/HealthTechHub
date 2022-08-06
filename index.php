@@ -242,7 +242,7 @@
                         <div class="col-lg-5">
                             <div class="image-inner-video-section">
                                 <div class="main-video-box video-popup">
-                                    <video id="my-video" class="video-js" controls preload="auto" width="100%" height="auto" poster="assets/images/banners/n-popup.webp" data-setup="{}" style="width: 100% !important; height:auto !important">
+                                    <video id="my-video" class="video-js" controls preload="auto" width="100%" height="auto" data-setup="{}" style="width: 100% !important; height:auto !important; min-height:290px">
                                         <source src="assets/video/opening.mp4" type="video/mp4" />
                                         <p class="vjs-no-js">
                                         </p>

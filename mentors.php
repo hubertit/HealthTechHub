@@ -466,7 +466,8 @@
                     </div>
                 </div>
                 <div class="mt-5 d-flex justify-content-center">
-                    <a href="https://incubation.bridgeforbillions.org/signup?organization=178&program=326&entexcl=True&menexcl=False" target="_blank" class="btn btn-primary">Apply Now</a>
+                    <a href="https://incubation.bridgeforbillions.org/signup?organization=178&program=326&entexcl=True&menexcl=False" target="_blank" class="btn btn-primary">Apply Now</a> &nbsp; &nbsp; &nbsp;
+                    <!-- <a href="" class="btn btn-warning">More Mentors</a> -->
                 </div>
 
             </div>
