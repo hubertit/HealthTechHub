@@ -57,10 +57,10 @@
                                     <div class="col-12 text-center wow move-up ">
                                         <ul class="nav justify-content-center ht-tab-menu" role="tablist">
                                             <li class="tab__item nav-item active">
-                                                <a class="nav-link active" id="nav-tab1" data-bs-toggle="tab" href="#history-tab" role="tab" aria-selected="true">Growth start-ups</a>
+                                                <a class="nav-link active" id="nav-tab1" data-bs-toggle="tab" href="#history-tab" role="tab" aria-selected="true">Growth startups</a>
                                             </li>
                                             <li class="tab__item nav-item">
-                                                <a class="nav-link" id="nav-tab2" data-bs-toggle="tab" href="#mission-tab" role="tab" aria-selected="false">Scale-up start-ups</a>
+                                                <a class="nav-link" id="nav-tab2" data-bs-toggle="tab" href="#mission-tab" role="tab" aria-selected="false">Scale-up startups</a>
                                             </li>
 
                                         </ul>
