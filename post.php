@@ -92,7 +92,7 @@ $data = mysqli_fetch_assoc($query);
                                         <div class="post-meta mt-20 justify-content-center">
                                             <div class="post-author">
                                                 <a href="#">
-                                                    By Admin
+                                                    By <?php print $data["author"]; ?>
                                                 </a>
                                             </div>
                                             <div class="post-date">

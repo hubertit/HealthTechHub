@@ -25,14 +25,14 @@
                                             <nav class="navigation-menu primary--menu">
 
                                                 <ul>
-                                                    <li class=""> <a href="./#about"><span>About</span></a> </li>
-                                                    <li class=""> <a href="startups"><span>The Program</span></a> </li>
-                                                    <li class=""> <a href="mentors"><span>Mentors</span></a> </li>
-                                                    <li class=""> <a href="events"><span>Events</span></a> </li>
-                                                    <li class=""> <a href="partners"><span>Partners</span></a> </li>
-                                                    <li class=""> <a href="challenges"><span>Challenges</span></a> </li>
-                                                    <li class=""> <a href="news"><span>News</span></a> </li>
-                                                    <li class=""> <a href="contactus"><span>Contact</span></a> </li>
+                                                    <li > <a href="./#about"><span>About</span></a> </li>
+                                                    <li > <a href="theprogram"><span>The Program</span></a> </li>
+                                                    <li > <a href="mentors"><span>Mentors</span></a> </li>
+                                                    <li > <a href="events"><span>Events</span></a> </li>
+                                                    <li > <a href="partners"><span>Partners</span></a> </li>
+                                                    <li > <a href="challenges"><span>Challenges</span></a> </li>
+                                                    <li > <a href="news"><span>News</span></a> </li>
+                                                    <li > <a href="contactus"><span>Contact</span></a> </li>
                                                 </ul>
                                             </nav>
                                         </div>
@@ -51,7 +51,7 @@
                                     <ul>
                                         <li>
                                             <a href="mailto:sharon@bridgeforbillions.org " target="_blank" class="btn btn-sm">
-                                                <span class="">Signup</span>
+                                                <span >Signup</span>
                                             </a>
                                         </li>
 

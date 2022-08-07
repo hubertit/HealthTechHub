@@ -9,27 +9,27 @@
                     </div>
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.5055154726997!2d30.05771311473996!3d-1.950974298577639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dca5a86d814c61%3A0x7d3b83e12b1c11a9!2sNorrsken%20House%20Kigali!5e0!3m2!1sen!2srw!4v1659531101580!5m2!1sen!2srw" width="100%" height="auto" style="border: 1px solid blue;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
-                <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 footer-widget">
                     <h6 class="footer-widget__title mb-20">Sitemap</h6>
                     <ul class="footer-widget__list">
                         <li><a href="about" class="hover-style-link">About Us</a></li>
-                        <li><a href="startups" class="hover-style-link">The Program</a></li>
+                        <li><a href="theprogram" class="hover-style-link">The Program</a></li>
                         <li><a href="partners" class="hover-style-link">Partners</a></li>
-                        <li><a href="#" class="hover-style-link">Challenges</a></li>
+                        <li><a href="challenges" class="hover-style-link">Challenges</a></li>
                         <li><a href="startups" class="hover-style-link">Startups</a></li>
                     </ul>
                 </div>
-                <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 footer-widget">
                     <h6 class="footer-widget__title mb-20">More</h6>
                     <ul class="footer-widget__list">
                         <li><a href="news" class="hover-style-link">News</a></li>
-                        <li><a href="contact" class="hover-style-link">Contact</a></li>
+                        <li><a href="contactus" class="hover-style-link">Contact</a></li>
                         <li><a href="mentors" class="hover-style-link">Mentors</a></li>
                         <li><a href="mentors#experts" class="hover-style-link">Experts</a></li>
                         <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdi-kJ-Ead3cWVmfBGFjUPgRz2fQDuNs1jRx_299Gbt2J9z4Q/formrestricted" target="_blank" class="hover-style-link">Join Mentor Network</a></li>
                     </ul>
                 </div>
-                <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 footer-widget">
                     <!-- <h6 class="footer-widget__title mb-20">Menu Title</h6> -->
                     <ul class="footer-widget__list">
                         <h6 class="footer-widget__title mb-20"> Support</h6>
@@ -43,7 +43,7 @@
                     </ul>
                 </div>
 
-                <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
+                <div class="col-lg-2 col-md-4 col-sm-6  col-6 footer-widget">
                     <!-- <h6 class="footer-widget__title mb-20">Menu Title</h6> -->
                     <ul class="footer-widget__list">
                         <h6 class="footer-widget__title mb-20"> E-Newsletter</h6>
@@ -52,7 +52,7 @@
                         <form action="" id="subscribeForm" method="post">
                             <input type="email" class="form-control" id="email" placeholder="E-mail" required="">
                             <span class="text-danger hidden" id="emailError"></span>
-                            <input type="button" id="subscribeButton" value="Subscribe Now">
+                            <input type="button" id="subscribeButton" value="Subscribe Now" class="btn btn-primary mt-2 btn-xs btn-sm">
                         </form>
                         
                     </ul>

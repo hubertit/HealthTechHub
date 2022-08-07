@@ -185,25 +185,25 @@
             <div class="fun-fact-wrapper bg-theme-three section-space--pt_40">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-3 col-sm-6 wow move-up">
+                        <div class="col-md-3 col-sm-6 col-6 wow move-up">
                             <div class="fun-fact--five text-center">
-                                <div class="fun-fact__count counter">28</div>
+                                <div class="fun-fact__count counter">30</div>
                                 <h6 class="fun-fact__text">Startups</h6>
                             </div>
                         </div>
-                        <div class="col-md-3 col-sm-6 wow move-up">
+                        <div class="col-md-3 col-sm-6 col-6 wow move-up">
                             <div class="fun-fact--five text-center">
                                 <div class="fun-fact__count counter">15</div>
                                 <h6 class="fun-fact__text">Partners</h6>
                             </div>
                         </div>
-                        <div class="col-md-2 col-sm-6 wow move-up">
+                        <div class="col-md-2 col-sm-6 col-6  wow move-up">
                             <div class="fun-fact--five text-center">
                                 <div class="fun-fact__count ">20+</div>
                                 <h6 class="fun-fact__text">Experts</h6>
                             </div>
                         </div>
-                        <div class="col-md-2 col-sm-6 wow move-up">
+                        <div class="col-md-2 col-sm-6 col-6 wow move-up">
                             <div class="fun-fact--five text-center">
                                 <div class="fun-fact__count ">10+</div>
                                 <h6 class="fun-fact__text">Mentors</h6>

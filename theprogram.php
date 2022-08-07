@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="breadcrumb_box text-center">
-                        <h1 class="breadcrumb-title text-color-white">Startups</h1>
+                        <h1 class="breadcrumb-title text-color-white">The Program</h1>
 
                     </div>
                 </div>
@@ -43,14 +43,109 @@
 
                 <div class="tabs-wrapper  section-space--ptb_100">
                     <div class="container">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="section-title-wrapper text-center section-space--mb_60 wow move-up">
-                                    <h6 class="section-sub-title mb-20">Discover our programs</h6>
-                                    <h3 class="section-title">We’ve been triumphing all these <span class="text-color-primary">3 years</span> </h3>
+                    
+
+
+                        <!--===========  feature-icon-wrapper  Start =============-->
+                        <div class="feature-icon-wrapper section-space--pb_70">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="section-title-wrap text-center section-space--mb_20">
+                                            <!-- <h3 class="heading">Prominent IT Security Services</h3> -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="feature-list__three">
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <div class="grid-item animate">
+                                                        <div class="ht-box-icon style-03">
+                                                            <div class="icon-box-wrap">
+                                                                <div class="content-header">
+                                                                    <div class="icon">
+                                                                        <i class="fal fa-shield-check"></i>
+                                                                    </div>
+                                                                    <h5 class="heading">
+                                                                        Growth Stage Startups
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="content">
+                                                                    <div class="text">Startups in this stage will be post-revenue startups registered in an African country operating in one of the program sector tracks and led by an African founder. Startups will be expected to have directly impacted at least 5,000 to a maximum of 50,000 beneficiaries so far. The goal will be to select 30 startups in this stage. The value the program will offer these startups is the refinement of their business models, improving their investment readiness/ connection to validate and integrate their solutions into the Public Health sector.</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6">
+                                                    <div class="grid-item animate">
+                                                        <div class="ht-box-icon style-03">
+                                                            <div class="icon-box-wrap">
+                                                                <div class="content-header">
+                                                                    <div class="icon">
+                                                                        <i class="fal fa-medal"></i>
+                                                                    </div>
+                                                                    <h5 class="heading">
+                                                                        Scaling Stage Startups
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="content">
+                                                                    <div class="text">These will be post-revenue startups registered in an African country operating in one of the program sectors and led by an African founder and will be expected to have directly impacted more than 50,000 beneficiaries to date. The goal will be to select 10 startups in this stage, primarily from the focus countries, and support them to validate and embed at scale their solutions in one or more public health systems in Africa.</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-lg-4">
+                                                    <img src="assets/images/mentors/1.jpeg" alt="timeline-image-01" class="img-fluid mt-4" style="margin-left: 30px !important;">
+                                                </div>
+
+                                                <div class="col-lg-8">
+                                                    <div class="grid-item animate">
+                                                        <div class="ht-box-icon style-03">
+                                                            <div class="icon-box-wrap">
+                                                                <div class="content-header">
+                                                                    <!-- <div class="icon">
+                                                                        <i class="fal fa-magnet"></i>
+                                                                    </div> -->
+                                                                    <h5 class="heading">
+                                                                        Startup Benefits
+                                                                    </h5>
+                                                                </div>
+                                                                <div class="content">
+                                                                    <div class="text">
+                                                                        <ul class="benefits" style="">
+                                                                            <ol type="1">
+                                                                                <li>A seat in the 10-month innovation program with 2 distinct tracks for the Growth Startups and the Scale ups</li>
+                                                                                <li>Opportunity to apply for funding to validate their solutions in public health systems in AfricaAccess to the HealthTech Hub Africa public-private partner network</li>
+                                                                                <li>A spot in the one-year coworking space in Kigali, Rwanda. </li>
+                                                                                <li>Exposure and partner match-making opportunities</li>
+                                                                                <li>Life-time access to the alumni network of HealthTech Hub Africa startups and open-source resources</li>
+                                                                            </ol>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-md-4 mt-4 offset-md-4">
+                                                    <a href="https://www.bridgeforbillions.org/perks-library/" class="btn btn-primary">Resources for Entrepreneurs</a>
+                                                </div>
+
+
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
+                        <!--===========  feature-icon-wrapper  End =============-->
+
                         <div class="row">
                             <div class="col-lg-12 ht-tab-wrap">
                                 <div class="row">
@@ -68,8 +163,9 @@
                                 </div>
 
                                 <div class="tab-content ht-tab__content wow move-up">
+                                    
 
-                                    <div class="tab-pane fade show active" id="history-tab" role="tabpanel">
+                                    <div class="tab-pane fade  active" id="history-tab" role="tabpanel">
                                         <div class="tab-history-wrap section-space--mt_60">
                                             <div class="row">
 
@@ -167,7 +263,7 @@
                                                                             </div>
                                                                         </a>
                                                                     </div>
-                                                                    
+
                                                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                                                         <a href="https://my-doctor.hirwaf.com/">
                                                                             <div class="brand-logo__image">
@@ -209,26 +305,6 @@
 
             </div>
         </div>
-
-        <div class="section-title-wrap text-left section-space--mb_30">
-            
-                                <h6 class="section-sub-title mb-20" style="text-align:center;">The Program</h6>
-                                <p style="text-align:center;">The Hub houses two categories of startups: Growth startups and scale-ups.
-Startups benefit from holistic training and personalized mentoring via online entrepreneurship and mentoring platform. <br>Focused on structuring all aspects of the startups' businesses and capacity before investment and/or after first investments
-. Focused on structuring all aspects of the startups'<br> businesses and capacity before investment and/or after first investments.
-<h6 class="section-sub-title mb-20" style="text-align:center;">Startup Benefits</h6>
-<ul class="benefits" style="text-align:center;">
-<ol type="1">
-<li>A seat in the 10-month innovation program with 2 distinct tracks for the Growth Startups and the Scale ups</li>
-<li>Opportunity to apply for funding to validate their solutions in public health systems in AfricaAccess to the HealthTech Hub Africa public-private partner network</li>
-<li>A spot in the one-year coworking space in Kigali, Rwanda. </li>
-<li>Exposure and partner match-making opportunities</li>
-<li>Life-time access to the alumni network of HealthTech Hub Africa startups and open-source resources</li>
-</ol>
-</ul>
-<br><h6 class="section-sub-title mb-20" style="text-align:center;">Resources for Entrepreneurs:</h6>
-<p style="text-align:center;"><a href = "https://www.bridgeforbillions.org/perks-library/">https://www.bridgeforbillions.org/perks-library/</a></p>
-</div>
 
         <?php require("templates/calltoaction.php"); ?>
 

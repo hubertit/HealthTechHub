@@ -69,7 +69,7 @@
                         <div class="col-lg-12">
                             <!-- section-title-wrap Start -->
                             <div class="section-title-wrap text-center section-space--mb_30">
-                                <h3 class="heading mb-20">Become a mentor of an <span class="text-color-primary">African HealthTech</span> startup and <span class="text-color-primary"> join us</span> <br> in the mission of strengthening health systems! </h3>
+                                <h3 class="heading mb-20">Become a mentor of an <span class="text-color-primary">African HealthTech</span> startup and <span class="text-color-primary"> join us</span> in the mission of strengthening health systems! </h3>
                                 <p class="title-dec-text">Join the HealthTech community of startup mentors, get trained and make a difference by mentoring the entrepreneurs who will revolutionize health in Africa.</p>
                                 <p class="title-dec-text">By offering 4hrs of your time every month over the course of 4 months, you will help startups validate their solutions, scale their businesses and change the lives of patients!</p>
                             </div>
