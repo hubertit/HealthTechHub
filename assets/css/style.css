@@ -5842,7 +5842,6 @@ ul.footer-widget__horizontal-list li {
 .fun-fact--one .fun-fact__text {
   font-size: 16px;
   font-weight: 700;
-  text-transform: uppercase;
   letter-spacing: 2px;
   color: #ff1552;
 }
@@ -5868,19 +5867,19 @@ ul.footer-widget__horizontal-list li {
 
 .fun-fact--three {
   position: relative;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .fun-fact--three {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .fun-fact--three {
     margin-bottom: 0px;
-    margin-top: 30px;
+    margin-top: 20px;
   }
 }
 
@@ -5893,15 +5892,14 @@ ul.footer-widget__horizontal-list li {
 
 .fun-fact--three .fun-fact__count {
   color: #0211a0;
-  margin-bottom: 19px;
+  margin-bottom: 10px;
   font-size: 56px;
-  font-weight: 400;
+  font-weight :bold ;
   line-height: 1;
 }
 
 .fun-fact--three .fun-fact__text {
-  font-size: 14px;
-  text-transform: uppercase;
+  font-size: 13px;
   color: #7e7e7e;
 }
 
