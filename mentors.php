@@ -384,7 +384,23 @@
                                     <div class="swiper-wrapper testimonial-slider__wrapper">
                                         <div class="swiper-slide">
                                             <div class="testimonial-slider__single wow move-up">
-                                                
+
+                                                <div class="testimonial-slider__text">Amazing experience at HealthTech Hub Africa. It's so exciting to see innovation bubbling in the African continent. Not only is there an entrepreneurial mindset, but the ecosystem is so supportive and conducive. I appreciate the methodology and associated framework provided by Bridge for Billions. During my mentorship sessions, the framework really helped in keeping razor-sharp discussions. It helped me, as a mentor, challenge the mentee with the right questions as well as the mentee address the right concerns.</div>
+                                                <div class="author-info">
+                                                    <div class="testimonial-slider__media">
+                                                        <img src="assets/images/testimonial/testimonial.jpeg" class="img-fluid" alt="">
+                                                    </div>
+                                                    <div class="testimonial-slider__author">
+                                                        <h6 class="name">Dr. Shankar Kumar, MBBS, MD</h6>
+                                                        <span class="designation">HF Medical Lead, Medical Affairs</span>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="testimonial-slider__single wow move-up">
+
                                                 <div class="testimonial-slider__text">I really enjoyed the mentoring experience with Bridge for Billions for that HealthTech program. People are friendly and result-oriented with always the aim to push things forward, and the platform was practical and easy to navigate, making it easy to align with mentees on all aspects of their startuppers' journey.</div>
                                                 <div class="author-info">
                                                     <div class="testimonial-slider__media">
@@ -400,52 +416,21 @@
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="testimonial-slider__single wow move-up">
-                                                
+
                                                 <div class="testimonial-slider__text">A truly well-designed platform that is just as beneficial for the mentor as it is for the mentee. Its' almost a mini MBA program, except that it's much more fun, real, and impactful!</div>
                                                 <div class="author-info">
                                                     <div class="testimonial-slider__media">
                                                         <img src="assets/images/testimonial/testimonial.jpeg" class="img-fluid" alt="">
                                                     </div>
                                                     <div class="testimonial-slider__author">
-                                                        <h6 class="name">Mentor's Name</h6>
-                                                        <span class="designation">Mentor Position</span>
+                                                        <h6 class="name">Asmita Mukerji</h6>
+                                                        <span class="designation">Project Manager of Novartis Foundation’s IDT</span>
                                                     </div>
                                                 </div>
 
                                             </div>
                                         </div>
-                                        <div class="swiper-slide">
-                                            <div class="testimonial-slider__single wow move-up">
-                                                
-                                                <div class="testimonial-slider__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel pellentesque elit. Donec commodo nibh nulla, ac convallis lectus vestibulum ac. Phasellus et.</div>
-                                                <div class="author-info">
-                                                    <div class="testimonial-slider__media">
-                                                        <img src="assets/images/testimonial/testimonial.jpeg" class="img-fluid" alt="">
-                                                    </div>
-                                                    <div class="testimonial-slider__author">
-                                                        <h6 class="name">Mentor's Name</h6>
-                                                        <span class="designation">Mentor Position</span>
-                                                    </div>
-                                                </div>
 
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="testimonial-slider__single wow move-up">
-                                                
-                                                <div class="testimonial-slider__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel pellentesque elit. Donec commodo nibh nulla, ac convallis lectus vestibulum ac. Phasellus et.</div>
-                                                <div class="author-info">
-                                                    <div class="testimonial-slider__media">
-                                                        <img src="assets/images/testimonial/testimonial.jpeg" class="img-fluid" alt="">
-                                                    </div>
-                                                    <div class="testimonial-slider__author">
-                                                        <h6 class="name">Mentor's Name</h6>
-                                                        <span class="designation">Mentor Position</span>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-pagination swiper-pagination-t0 section-space--mt_30"></div>
