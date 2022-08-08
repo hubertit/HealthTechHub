@@ -384,7 +384,39 @@
                                     <div class="swiper-wrapper testimonial-slider__wrapper">
                                         <div class="swiper-slide">
                                             <div class="testimonial-slider__single wow move-up">
-                                                <h6 class="testimonial-subject">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sodales gravida purus ac.</h6>
+                                                
+                                                <div class="testimonial-slider__text">I really enjoyed the mentoring experience with Bridge for Billions for that HealthTech program. People are friendly and result-oriented with always the aim to push things forward, and the platform was practical and easy to navigate, making it easy to align with mentees on all aspects of their startuppers' journey.</div>
+                                                <div class="author-info">
+                                                    <div class="testimonial-slider__media">
+                                                        <img src="assets/images/testimonial/testimonial.jpeg" class="img-fluid" alt="">
+                                                    </div>
+                                                    <div class="testimonial-slider__author">
+                                                        <h6 class="name">Amine Mansouri</h6>
+                                                        <!-- <span class="designation">Mentor Position</span> -->
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="testimonial-slider__single wow move-up">
+                                                
+                                                <div class="testimonial-slider__text">A truly well-designed platform that is just as beneficial for the mentor as it is for the mentee. Its' almost a mini MBA program, except that it's much more fun, real, and impactful!</div>
+                                                <div class="author-info">
+                                                    <div class="testimonial-slider__media">
+                                                        <img src="assets/images/testimonial/testimonial.jpeg" class="img-fluid" alt="">
+                                                    </div>
+                                                    <div class="testimonial-slider__author">
+                                                        <h6 class="name">Mentor's Name</h6>
+                                                        <span class="designation">Mentor Position</span>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="testimonial-slider__single wow move-up">
+                                                
                                                 <div class="testimonial-slider__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel pellentesque elit. Donec commodo nibh nulla, ac convallis lectus vestibulum ac. Phasellus et.</div>
                                                 <div class="author-info">
                                                     <div class="testimonial-slider__media">
@@ -400,39 +432,7 @@
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="testimonial-slider__single wow move-up">
-                                                <h6 class="testimonial-subject">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sodales gravida purus ac.</h6>
-                                                <div class="testimonial-slider__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel pellentesque elit. Donec commodo nibh nulla, ac convallis lectus vestibulum ac. Phasellus et.</div>
-                                                <div class="author-info">
-                                                    <div class="testimonial-slider__media">
-                                                        <img src="assets/images/testimonial/testimonial.jpeg" class="img-fluid" alt="">
-                                                    </div>
-                                                    <div class="testimonial-slider__author">
-                                                        <h6 class="name">Mentor's Name</h6>
-                                                        <span class="designation">Mentor Position</span>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="testimonial-slider__single wow move-up">
-                                                <h6 class="testimonial-subject">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sodales gravida purus ac.</h6>
-                                                <div class="testimonial-slider__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel pellentesque elit. Donec commodo nibh nulla, ac convallis lectus vestibulum ac. Phasellus et.</div>
-                                                <div class="author-info">
-                                                    <div class="testimonial-slider__media">
-                                                        <img src="assets/images/testimonial/testimonial.jpeg" class="img-fluid" alt="">
-                                                    </div>
-                                                    <div class="testimonial-slider__author">
-                                                        <h6 class="name">Mentor's Name</h6>
-                                                        <span class="designation">Mentor Position</span>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="testimonial-slider__single wow move-up">
-                                                <h6 class="testimonial-subject">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sodales gravida purus ac.</h6>
+                                                
                                                 <div class="testimonial-slider__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel pellentesque elit. Donec commodo nibh nulla, ac convallis lectus vestibulum ac. Phasellus et.</div>
                                                 <div class="author-info">
                                                     <div class="testimonial-slider__media">
