@@ -165,20 +165,20 @@
 
                                 <div class="main-video-box video-popup">
                                     <!-- <a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="video-link  mt-30"> -->
-                                        <div class="single-popup-wrap">
-                                            <img class="img-fluid border-radus-5" src="assets/images/banners/banner-3.jpeg" alt="">
-                                            <div class="ht-popup-video video-button">
-                                                <div class="video-mark">
-                                                    <div class="wave-pulse wave-pulse-1"></div>
-                                                    <div class="wave-pulse wave-pulse-2"></div>
-                                                </div>
-                                                <div class="video-button__two">
-                                                    <div class="video-play">
-                                                        <span class="video-play-icon"></span>
-                                                    </div>
+                                    <div class="single-popup-wrap">
+                                        <img class="img-fluid border-radus-5" src="assets/images/banners/banner-3.jpeg" alt="">
+                                        <div class="ht-popup-video video-button">
+                                            <div class="video-mark">
+                                                <div class="wave-pulse wave-pulse-1"></div>
+                                                <div class="wave-pulse wave-pulse-2"></div>
+                                            </div>
+                                            <div class="video-button__two">
+                                                <div class="video-play">
+                                                    <span class="video-play-icon"></span>
                                                 </div>
                                             </div>
                                         </div>
+                                    </div>
                                     </a>
                                 </div>
 
@@ -202,24 +202,101 @@
             </div>
             <!--====================  Accordion area  ====================-->
 
-            <!--====================  Conact us Section Start ====================-->
-            <div class="contact-us-section-wrappaer section-space--pt_100 section-space--pb_70">
 
+            <!--===========  feature-large-images-wrapper  Start =============-->
+            <div class="feature-large-images-wrapper section-space--ptb_100 bg-gray">
+                <div class="container">
 
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section-title-wrap Start -->
+                            <div class="section-title-wrap text-center section-space--mb_30">
+                                <h6 class="section-sub-title mb-20">What are application tracks?</h6>
+                                <h3 class="heading">There are two application tracks for which organizations can apply <span class="text-color-primary"> only once</span> a year:</h3>
+                            </div>
+                            <!-- section-title-wrap Start -->
+                        </div>
+                    </div>
 
-                <div class="mb-5 d-flex justify-content-center">
-                    <a href="https://docs.google.com/forms/d/11-eGLae-AEL6dCK6vShAs4RP6SBQhOpqIay031BbRBI/prefill" target="_blank" class="btn btn-primary">Apply Now</a>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="row small-mt__30">
+
+                                <div class="col-lg-6 col-md-6 mt-30">
+                                    <!-- Box large image warap Start -->
+                                    <a href="#" class="box-large-image__two">
+                                        <div class="box-large-image__two__box">
+                                            <div class="box-large-image__midea">
+                                                <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-01.webp"></div>
+                                            </div>
+
+                                            <div class="box-info">
+                                                <h5 class="heading">Growth startups additional eligibility criteria and conditions: </h5>
+                                                <div class="box-more-info">
+                                                    <div class="text" style="text-align:left;">
+                                                        <ol>
+                                                            <li>Minimum Viable Product is existing</li>
+                                                            <li>At least 10.000 beneficiaries directly impacted by the solution</li>
+                                                            <li> All applicants must have revenue or prior funding</li>
+                                                            <li>Startup team needs to dedicate at least 6 hours a month to the program and attend physically the 2 main annual HealthTech summits in 2023</li>
+                                                        </ol>
+                                                    </div>
+                                                    <!-- <div class="btn">
+                                                        <i class="button-icon far fa-long-arrow-right"></i>
+                                                    </div> -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Box large image warap End -->
+                                </div>
+
+                                <div class="col-lg-6 col-md-6  mt-30">
+                                    <!-- Box large image warap Start -->
+                                    <a href="#" class="box-large-image__two">
+                                        <div class="box-large-image__two__box">
+                                            <div class="box-large-image__midea">
+                                                <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-02.webp"></div>
+                                            </div>
+
+                                            <div class="box-info">
+                                                <h5 class="heading">Scale ups additional evaluation criteria and conditions:</h5>
+                                                <div class="box-more-info">
+                                                    <div class="text" style="text-align: left;">
+                                                        <ol>
+                                                            <li> Solution must be existing in a commercial scale</li>
+                                                            <li> At least 50.000 beneficiaries directly impacted by the solution</li>
+                                                            <li> All applicants must have revenue and prior funding: they must have both, even if they are self-funded</li>
+                                                            <li> Scale up teams need to dedicate at least 1 hour a month to the program and attend physically the 2 main annual HealthTech summits in 2023</li>
+                                                        </ol>
+
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Box large image warap End -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-5 d-flex justify-content-center">
+                        <a href="https://docs.google.com/forms/d/11-eGLae-AEL6dCK6vShAs4RP6SBQhOpqIay031BbRBI/prefill" target="_blank" class="btn btn-primary">Apply Now</a>
+                    </div>
+
                 </div>
-
-                <!--====================  Conact us Section End  ====================-->
-
-
-
-
-                <!--========== Call to Action Area Start ============-->
-                <?php require("templates/calltoaction.php"); ?>
-                <!--========== Call to Action Area End ============-->
             </div>
+            <!--===========  feature-large-images-wrapper  End =============-->
+
+
+
+            <!--====================  Conact us Section End  ====================-->
+
+            <!--========== Call to Action Area Start ============-->
+            <?php require("templates/calltoaction.php"); ?>
+            <!--========== Call to Action Area End ============-->
+
             <?php require("templates/page-footer.php"); ?>
         </div>
 
