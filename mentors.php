@@ -21,6 +21,12 @@
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
 
+    <style>
+        .testimonial-slider__single {
+            min-height: 300px;
+        }
+    </style>
+
 </head>
 
 <body>
