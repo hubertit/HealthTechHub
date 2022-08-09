@@ -135,11 +135,10 @@ The 2023 Challenge will welcome startup applications from any African country. I
                                                                     <div class="text">
                                                                         <ul class="benefits" style="">
                                                                             <ol type="1">
-                                                                                <li>A seat in the 10-month innovation program with 2 distinct tracks for the Growth Startups and the Scale ups</li>
-                                                                                <li>Opportunity to apply for funding to validate their solutions in public health systems in AfricaAccess to the HealthTech Hub Africa public-private partner network</li>
-                                                                                <li>A spot in the one-year coworking space in Kigali, Rwanda. </li>
-                                                                                <li>Exposure and partner match-making opportunities</li>
-                                                                                <li>Life-time access to the alumni network of HealthTech Hub Africa startups and open-source resources</li>
+                                                                                <li>Minimum Viable Product is existing</li>
+                                                                                <li>At least 10.000 beneficiaries directly impacted by the solution</li>
+                                                                                <li>All applicants must have revenue or prior funding </li>
+                                                                                <li>Startup team needs to dedicate at least 6 hours a month to the program and attend physically the 2 main annual HealthTech summits in 2023</li>
                                                                             </ol>
                                                                         </ul>
                                                                     </div>
