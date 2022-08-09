@@ -116,80 +116,71 @@
                                                         <li>Exposure and partner match-making opportunities</li>
                                                         <li>Life-time access to the alumni network of HealthTech Hub Africa startups and open-source resources</li>
                                                     </ol>
-                                                    </ul><br>
-                                                    <h6 class="section-sub-title mb-20">Eligibility Criteria</h6>
-                                                    <b><p>The selected forty startups will benefit from:</p></b>
-                                      <div class="content">
-                                        <div class="text">
-                                                <ul class="benefits" style="">
-                                                     <ol type="1">
-                                                        <li>Evidence of a legal entity registered in an African country
-</li>
-                                                        <li>Clearly demonstrated population health impact through their solution</li>
-                                                        <li>Teams of two or more people can apply, and those with a more positive gender balance will be prioritized. </li>
-                                                        <li>Startups must focus on at least one of the four thematic areas of the Hub: cardiovascular health, breast cancer, virtual health and care, and optimization of data-driven decision-making
-</li>
-                                                        <li>Startups are not part of another accelerator program in the same year if they are selected</li>
-                                                    </ol>
-                                                    </ul><br>
-                                                    <b><p>There are two application tracks for which organizations can apply only once a year:
-</p></b><br>
-<div class="col-lg-8"> </div>
+                                                </ul>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="headingThree">
+                                            <h5 class="mb-0">
+                                                <button class="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                    Eligibility criteria
+                                                    <span> <i class="fas fa-chevron-down"></i>
+                                                        <i class="fas fa-chevron-up"></i> </span>
+                                                </button>
+                                            </h5>
+                                        </div>
+                                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
+                                            <div class="card-body">
+                                                <p>
+                                                <ol type="1">
+                                                    <li>Evidence of a legal entity registered in an African country
+                                                    </li>
+                                                    <li>Clearly demonstrated population health impact through their solution</li>
+                                                    <li>Teams of two or more people can apply, and those with a more positive gender balance will be prioritized. </li>
+                                                    <li>Startups must focus on at least one of the four thematic areas of the Hub: cardiovascular health, breast cancer, virtual health and care, and optimization of data-driven decision-making
+                                                    </li>
+                                                    <li>Startups are not part of another accelerator program in the same year if they are selected</li>
+                                                </ol>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
 
-                                                    <div class="grid-item animate">
-                                                        <div class="ht-box-icon style-03">
-                                                            <div class="icon-box-wrap">
-                                                                <div class="content-header">
-                                                                    <!-- <div class="icon">
-                                                                        <i class="fal fa-magnet"></i>
-                                                                    </div> -->
-                                                                    <h6 class="heading">
-                                                                    Growth startups additional eligibility criteria and conditions:</h6>
-                                                                </div>
-                                                                <div class="content">
-                                                                    <div class="text">
-                                                                        <ul class="benefits" style="">
-                                                                            <ol type="1">
-                                                                                <li>A seat in the 10-month innovation program with 2 distinct tracks for the Growth Startups and the Scale ups</li>
-                                                                                <li>Opportunity to apply for funding to validate their solutions in public health systems in AfricaAccess to the HealthTech Hub Africa public-private partner network</li>
-                                                                                <li>A spot in the one-year coworking space in Kigali, Rwanda. </li>
-                                                                                <li>Exposure and partner match-making opportunities</li>
-                                                                                <li>Life-time access to the alumni network of HealthTech Hub Africa startups and open-source resources</li>
-                                                                            </ol>
-                                                                        </ul>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div><br>
-                                                <div class="grid-item animate">
-                                                        <div class="ht-box-icon style-03">
-                                                            <div class="icon-box-wrap">
-                                                                <div class="content-header">
-                                                                    <!-- <div class="icon">
-                                                                        <i class="fal fa-magnet"></i>
-                                                                    </div> -->
-                                                                    <h6 class="heading">
-                                                                    Scale ups additional evaluation criteria and conditions:
-</h6>
-                                                                </div>
-                                                                <div class="content">
-                                                                    <div class="text">
-                                                                        <ul class="benefits" style="">
-                                                                            <ol type="1">
-                                                                                <li>Solution must be existing in a commercial scale</li>
-                                                                                <li>At least 50.000 beneficiaries directly impacted by the solution</li>
-                                                                                <li>All applicants must have revenue and prior funding: they must have both, even if they are self-funded </li>
-                                                                                <li>Scale up teams need to dedicate at least 1 hour a month to the program and  attend physically the 2 main annual HealthTech summits in 2023</li>
-                                                                            </ol>
-                                                                        </ul>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-6">
+                            <div class="rv-video-section">
+
+                                <div class="ht-banner-01 ">
+                                    <img class="img-fluid border-radus-5 animation_images one wow fadeInDown" src="assets/images/banners/banner-1.jpeg" alt="">
+                                </div>
+
+                                <div class="ht-banner-02">
+                                    <img class="img-fluid border-radus-5 animation_images two wow fadeInDown" src="assets/images/banners/banner-2.jpeg" alt="">
+                                </div>
+
+                                <div class="main-video-box video-popup">
+                                    <!-- <a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="video-link  mt-30"> -->
+                                        <div class="single-popup-wrap">
+                                            <img class="img-fluid border-radus-5" src="assets/images/banners/banner-3.jpeg" alt="">
+                                            <div class="ht-popup-video video-button">
+                                                <div class="video-mark">
+                                                    <div class="wave-pulse wave-pulse-1"></div>
+                                                    <div class="wave-pulse wave-pulse-2"></div>
+                                                </div>
+                                                <div class="video-button__two">
+                                                    <div class="video-play">
+                                                        <span class="video-play-icon"></span>
                                                     </div>
                                                 </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
 
 
                                 <div class="ht-banner-03">
@@ -211,24 +202,101 @@
             </div>
             <!--====================  Accordion area  ====================-->
 
-            <!--====================  Conact us Section Start ====================-->
-            <div class="contact-us-section-wrappaer section-space--pt_100 section-space--pb_70">
 
+            <!--===========  feature-large-images-wrapper  Start =============-->
+            <div class="feature-large-images-wrapper section-space--ptb_100 bg-gray">
+                <div class="container">
 
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section-title-wrap Start -->
+                            <div class="section-title-wrap text-center section-space--mb_30">
+                                <h6 class="section-sub-title mb-20">What are application tracks?</h6>
+                                <h3 class="heading">There are two application tracks for which organizations can apply <span class="text-color-primary"> only once</span> a year:</h3>
+                            </div>
+                            <!-- section-title-wrap Start -->
+                        </div>
+                    </div>
 
-                <div class="mb-5 d-flex justify-content-center">
-                    <a href="https://docs.google.com/forms/d/11-eGLae-AEL6dCK6vShAs4RP6SBQhOpqIay031BbRBI/prefill" target="_blank" class="btn btn-primary">Apply Now</a>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="row small-mt__30">
+
+                                <div class="col-lg-6 col-md-6 mt-30">
+                                    <!-- Box large image warap Start -->
+                                    <a href="#" class="box-large-image__two">
+                                        <div class="box-large-image__two__box">
+                                            <div class="box-large-image__midea">
+                                                <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/challenge-1.jpeg"></div>
+                                            </div>
+
+                                            <div class="box-info">
+                                                <h5 class="heading">Growth startups additional eligibility criteria and conditions: </h5>
+                                                <div class="box-more-info">
+                                                    <div class="text" style="text-align:left;">
+                                                        <ol>
+                                                            <li>Minimum Viable Product is existing</li>
+                                                            <li>At least 10.000 beneficiaries directly impacted by the solution</li>
+                                                            <li> All applicants must have revenue or prior funding</li>
+                                                            <li>Startup team needs to dedicate at least 6 hours a month to the program and attend physically the 2 main annual HealthTech summits in 2023</li>
+                                                        </ol>
+                                                    </div>
+                                                    <!-- <div class="btn">
+                                                        <i class="button-icon far fa-long-arrow-right"></i>
+                                                    </div> -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Box large image warap End -->
+                                </div>
+
+                                <div class="col-lg-6 col-md-6  mt-30">
+                                    <!-- Box large image warap Start -->
+                                    <a href="#" class="box-large-image__two">
+                                        <div class="box-large-image__two__box">
+                                            <div class="box-large-image__midea">
+                                                <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/challenge-2.jpeg"></div>
+                                            </div>
+
+                                            <div class="box-info">
+                                                <h5 class="heading">Scale ups additional evaluation criteria and conditions:</h5>
+                                                <div class="box-more-info">
+                                                    <div class="text" style="text-align: left;">
+                                                        <ol>
+                                                            <li> Solution must be existing in a commercial scale</li>
+                                                            <li> At least 50.000 beneficiaries directly impacted by the solution</li>
+                                                            <li> All applicants must have revenue and prior funding: they must have both, even if they are self-funded</li>
+                                                            <li> Scale up teams need to dedicate at least 1 hour a month to the program and attend physically the 2 main annual HealthTech summits in 2023</li>
+                                                        </ol>
+
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Box large image warap End -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-5 d-flex justify-content-center">
+                        <a href="https://docs.google.com/forms/d/11-eGLae-AEL6dCK6vShAs4RP6SBQhOpqIay031BbRBI/prefill" target="_blank" class="btn btn-primary">Apply Now</a>
+                    </div>
+
                 </div>
-
-                <!--====================  Conact us Section End  ====================-->
-
-
-
-
-                <!--========== Call to Action Area Start ============-->
-                <?php require("templates/calltoaction.php"); ?>
-                <!--========== Call to Action Area End ============-->
             </div>
+            <!--===========  feature-large-images-wrapper  End =============-->
+
+
+
+            <!--====================  Conact us Section End  ====================-->
+
+            <!--========== Call to Action Area Start ============-->
+            <?php require("templates/calltoaction.php"); ?>
+            <!--========== Call to Action Area End ============-->
+
             <?php require("templates/page-footer.php"); ?>
         </div>
 
