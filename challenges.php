@@ -227,7 +227,7 @@
                                     <a href="#" class="box-large-image__two">
                                         <div class="box-large-image__two__box">
                                             <div class="box-large-image__midea">
-                                                <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-01.webp"></div>
+                                                <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/challenge-1.jpeg"></div>
                                             </div>
 
                                             <div class="box-info">
@@ -256,7 +256,7 @@
                                     <a href="#" class="box-large-image__two">
                                         <div class="box-large-image__two__box">
                                             <div class="box-large-image__midea">
-                                                <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-02.webp"></div>
+                                                <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/challenge-2.jpeg"></div>
                                             </div>
 
                                             <div class="box-info">
