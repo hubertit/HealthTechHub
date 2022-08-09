@@ -13,6 +13,9 @@
     <link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
     <link href="assets/css/video-js.css" rel="stylesheet" />
 
+    <!-- Main Style CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
     <style>
         .vjs-default-skin .vjs-big-play-button {
             left: 40% !important;
@@ -20,10 +23,18 @@
             width: 20% !important;
             height: 20% !important;
         }
+
+        .fund-raised h2,
+        h6 {
+            color: #AEAEAE;
+            ;
+        }
+
+        .fund-raised .fun-fact--three .fun-fact__count {
+            color: #AEAEAE;
+        }
     </style>
 
-    <!-- Main Style CSS -->
-    <link rel="stylesheet" href="assets/css/style.css">
     <style>
         #introVideo {
             right: 0;
@@ -197,22 +208,45 @@
                                 <h6 class="fun-fact__text">Partners</h6>
                             </div>
                         </div>
-                        <div class="col-md-2 col-sm-6 col-6  wow move-up">
+                        <div class="col-md-3 col-sm-6 col-6  wow move-up">
                             <div class="fun-fact--five text-center">
                                 <div class="fun-fact__count ">20+</div>
                                 <h6 class="fun-fact__text">Experts</h6>
                             </div>
                         </div>
-                        <div class="col-md-2 col-sm-6 col-6 wow move-up">
+                        <div class="col-md-3 col-sm-6 col-6 wow move-up">
                             <div class="fun-fact--five text-center">
                                 <div class="fun-fact__count ">10+</div>
                                 <h6 class="fun-fact__text">Mentors</h6>
                             </div>
                         </div>
-                        <div class="col-md-2 col-sm-6 wow move-up">
+                        <div class="col-md-3 col-sm-6 wow move-up">
+                            <div class="fun-fact--five text-center">
+                                <div class="fun-fact__count ">304</div>
+                                <h6 class="fun-fact__text">Paid Jobs</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 col-sm-6 wow move-up">
                             <div class="fun-fact--five text-center">
                                 <div class="fun-fact__count ">10</div>
                                 <h6 class="fun-fact__text">Countries</h6>
+                            </div>
+                        </div>
+
+                      
+
+                        <div class="col-md-3 col-sm-6 wow move-up">
+                            <div class="fun-fact--five text-center">
+                                <div class="fun-fact__count counter ">634940</div>
+                                <h6 class="fun-fact__text">Beneficiaries</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 col-sm-6 wow move-up">
+                            <div class="fun-fact--five text-center">
+                                <div class="fun-fact__count ">$10.8 M</div>
+                                <h6 class="fun-fact__text">Funds raised</h6>
                             </div>
                         </div>
                     </div>
@@ -280,41 +314,168 @@
             <!--=========== fun fact Wrapper Start ==========-->
             <!-- <div class="fun-fact-wrapper bg-gray section-space--ptb_120">
                 <div class="container">
-
                     <div class="row">
-                        <div class="col-lg-4 offset-lg-1">
-                            <div class="modern-number-01 me-5">
-                                <h2 class="heading"><span class="mark-text">38</span>Years’ Experience in IT</h2>
-                                <h3 class="heading">more about our <span class="text-color-primary">Success Stories</span></h3>
+                        <div class="col-lg-8 col-md-8">
+                            <div class="row">
+                                <h2>Beneficiaries Supported</h2>
+                                <div class="mb-5 mt-4">
+                                    <h6>Before the Program January</h6>
+                                </div>
+                                <div class="col-md-4 col-sm-4 wow move-up">
+                                    <div class="fun-fact--three">
+                                        <div class="fun-fact__count ">53%</div>
+                                        <h6 class="fun-fact__text">Of the ventures had
+                                            supported beneficiaries</h6>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 wow move-up">
+                                    <div class="fun-fact--three">
+                                        <div class="fun-fact__count ">3,796</div>
+                                        <h6 class="fun-fact__text">average beneficiaries supported
+                                            our venture</h6>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 wow move-up">
+                                    <div class="fun-fact--three">
+                                        <div class="fun-fact__count counter">113,901</div>
+                                        <h6 class="fun-fact__text">total beneficiaries supported</h6>
+                                    </div>
+                                </div>
+
+                                <div class="mb-5 mt-5">
+                                    <h6>After the Program (May 2022)</h6>
+                                </div>
+
+                                <div class="col-md-4 col-sm-4 wow move-up">
+                                    <div class="fun-fact--three">
+                                        <div class="fun-fact__count ">70%</div>
+                                        <h6 class="fun-fact__text">Of the ventures had
+                                            supported beneficiaries</h6>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 wow move-up">
+                                    <div class="fun-fact--three">
+                                        <div class="fun-fact__count ">21.165</div>
+                                        <h6 class="fun-fact__text">average beneficiaries supported
+                                            our venture</h6>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 wow move-up">
+                                    <div class="fun-fact--three text-center">
+                                        <div class="fun-fact__count counter">634,940</div>
+                                        <h6 class="fun-fact__text">total beneficiaries supported</h6>
+                                    </div>
+                                </div>
+
+
                             </div>
                         </div>
-                        <div class="col-lg-7 col-md-8">
-                            <div class="row">
-                                <div class="col-md-6 col-sm-6 wow move-up">
-                                    <div class="fun-fact--three text-center">
-                                        <div class="fun-fact__count counter">1790</div>
-                                        <h6 class="fun-fact__text">Account numbers</h6>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-6 wow move-up">
-                                    <div class="fun-fact--three text-center">
-                                        <div class="fun-fact__count counter">32</div>
-                                        <h6 class="fun-fact__text">Finished projects</h6>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-6 wow move-up">
-                                    <div class="fun-fact--three text-center">
-                                        <div class="fun-fact__count counter">73</div>
-                                        <h6 class="fun-fact__text">Happy clients</h6>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-6 wow move-up">
-                                    <div class="fun-fact--three text-center">
-                                        <div class="fun-fact__count counter">318</div>
-                                        <h6 class="fun-fact__text">Blog posts</h6>
-                                    </div>
-                                </div>
+
+                        <div class="col-lg-4 col-md-4">
+                            <div style="text-align: center; background-color:#fff; padding:30px">
+
+                                <h6 class="mb-4">Top Startups in
+                                    Beneficiaries Supported</h6>
+
+                                <div class="col-md-12"> <img src="assets/images/startups/cohort-1/logo.jpg" alt="" class="img-fluid"></div>
+                                <div class="col-md-12"><b> E-Heza Solutions has</b> 90.000
+                                    patients registered</div>
+                                <div class="col-md-12 mt-4"> <img src="assets/images/startups//cohort-1/TMCG-logo.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-12"><b> Rocket Health</b> supported 43,431
+                                    patients</div>
+                                <div class="col-md-12 mt-4"><img src="assets/images/startups/cohort-1/MobiKlinic.jpg" alt=""></div>
+
+                                <div class="col-md-12 mb-5"><a href=""> Mobiklinic</a> has supported 21,000
+                                    damiers</div>
                             </div>
+
+                        </div>
+                    </div>
+
+
+                </div>
+            </div> -->
+            <!--=========== fun fact Wrapper End ==========-->
+
+
+            <!--=========== fun fact Wrapper Start ==========-->
+            <!-- <div class="fun-fact-wrapper fund-raised bg-theme-default  section-space--ptb_120">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-md-8">
+                            <div class="row">
+                                <h2>Funds Raised</h2>
+                                <div class="mb-5 mt-4">
+                                    <h6>Before the Program (January 2022)</h6>
+                                </div>
+                                <div class="col-md-4 col-sm-4 wow move-up">
+                                    <div class="fun-fact--three">
+                                        <div class="fun-fact__count ">50%</div>
+                                        <h6 class="fun-fact__text">Of the ventures had
+                                            raised funds</h6>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 wow move-up">
+                                    <div class="fun-fact--three">
+                                        <div class="fun-fact__count ">3,796</div>
+                                        <h6 class="fun-fact__text">average beneficiaries supported
+                                            our venture</h6>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 wow move-up">
+                                    <div class="fun-fact--three">
+                                        <div class="fun-fact__count counter">113,901</div>
+                                        <h6 class="fun-fact__text">total beneficiaries supported</h6>
+                                    </div>
+                                </div>
+
+                                <div class="mb-5 mt-5">
+                                    <h6>After the Program (May 2022)</h6>
+                                </div>
+
+                                <div class="col-md-4 col-sm-4 wow move-up">
+                                    <div class="fun-fact--three">
+                                        <div class="fun-fact__count ">70%</div>
+                                        <h6 class="fun-fact__text">Of the ventures had
+                                            supported beneficiaries</h6>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 wow move-up">
+                                    <div class="fun-fact--three">
+                                        <div class="fun-fact__count ">21.165</div>
+                                        <h6 class="fun-fact__text">average beneficiaries supported
+                                            our venture</h6>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 wow move-up">
+                                    <div class="fun-fact--three text-center">
+                                        <div class="fun-fact__count counter">634,940</div>
+                                        <h6 class="fun-fact__text">total beneficiaries supported</h6>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4">
+                            <div style="text-align: center; background-color:#fff; padding:30px">
+
+                                <h6 class="mb-4">Top Startups in
+                                    Beneficiaries Supported</h6>
+
+                                <div class="col-md-12"> <img src="assets/images/startups/cohort-1/logo.jpg" alt="" class="img-fluid"></div>
+                                <div class="col-md-12"><b> E-Heza Solutions has</b> 90.000
+                                    patients registered</div>
+                                <div class="col-md-12 mt-4"> <img src="assets/images/startups//cohort-1/TMCG-logo.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-12"><b> Rocket Health</b> supported 43,431
+                                    patients</div>
+                                <div class="col-md-12 mt-4"><img src="assets/images/startups/cohort-1/MobiKlinic.jpg" alt=""></div>
+
+                                <div class="col-md-12 mb-5"><a href=""> Mobiklinic</a> has supported 21,000
+                                    damiers</div>
+                            </div>
+
                         </div>
                     </div>
 

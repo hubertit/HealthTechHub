@@ -43,7 +43,7 @@
 
                 <div class="tabs-wrapper  section-space--ptb_100">
                     <div class="container">
-                    
+
 
 
                         <!--===========  feature-icon-wrapper  Start =============-->
@@ -53,6 +53,8 @@
                                     <div class="col-lg-12">
                                         <div class="section-title-wrap text-center section-space--mb_20">
                                             <!-- <h3 class="heading">Prominent IT Security Services</h3> -->
+                                            <p>The Hub houses two categories of startups: Growth startups and scale-ups. Startups that successfully respond to the <a class="text-primary" href="https://docs.google.com/forms/d/11-eGLae-AEL6dCK6vShAs4RP6SBQhOpqIay031BbRBI/prefill" target="_blank"> HealthTech Challenge </a> are selected and begin their year-long journey. Some of these benefits include holistic training and personalized mentoring via online entrepreneurship and mentoring platform, with the support of our <a href="/partners"  rel="noopener noreferrer" class="text-primary"> Partners </a>. The training is focused on structuring all aspects of the startups' businesses and capacity before investment and/or after first investments . Focused on structuring all aspects of the startups' businesses and capacity before investment and/or after first investments.
+                                                ,year-long training</p>
                                         </div>
                                     </div>
                                 </div>
@@ -163,7 +165,7 @@
                                 </div>
 
                                 <div class="tab-content ht-tab__content wow move-up">
-                                    
+
 
                                     <div class="tab-pane fade  active" id="history-tab" role="tabpanel">
                                         <div class="tab-history-wrap section-space--mt_60">

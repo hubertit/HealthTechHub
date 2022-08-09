@@ -53,7 +53,7 @@
                             <div class="gradation-title-wrapper section-space--mb_60">
                                 <div class="gradation-title-wrap ">
                                     <h6 class="section-sub-title text-black mb-20">Our events</h6>
-                                    <h4 class="heading">More about our <br><span class="text-color-primary"> Upcoming</span> Events </h4> 
+                                    <h4 class="heading"><span class="text-color-primary"> Upcoming</span> Events </h4> 
                                 </div>
 
 
