@@ -282,7 +282,7 @@
                         </div>
                     </div>
                     <div class="mt-5 d-flex justify-content-center">
-                        <a href="https://docs.google.com/forms/d/11-eGLae-AEL6dCK6vShAs4RP6SBQhOpqIay031BbRBI/prefill" target="_blank" class="btn btn-primary">Apply Now</a>
+                        <a href="form/form.php" target="_blank" class="btn btn-primary">Apply Now</a>
                     </div>
 
                 </div>
