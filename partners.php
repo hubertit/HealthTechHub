@@ -75,7 +75,7 @@
                         <div class="col-12">
                             <div class="feature-list__one ">
                                 <div class="row d-flex justify-content-center">
-                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                    <div class="col-lg-6 col-md-6 wow move-up">
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">
@@ -87,19 +87,19 @@
                                         <!-- ht-box-icon End -->
                                     </div>
 
-                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                    <!-- <div class="col-lg-3 col-md-6 wow move-up"> -->
                                         <!-- ht-box-icon Start -->
-                                        <div class="ht-box-icon style-01 single-svg-icon-box">
+                                        <!-- <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">
                                                 <a href="https://www.theglobalfund.org/en/" target="_blank">
                                                     <img src="assets/images/partners/anchor/global-fund.png" class="img-fluid partner" alt="">
                                                 </a>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!-- ht-box-icon End -->
-                                    </div>
+                                    <!-- </div> -->
 
-                                    <div class="col-lg-3 col-md-6 wow move-up">
+                                    <div class="col-lg-6 col-md-6 wow move-up">
                                         <!-- ht-box-icon Start -->
                                         <div class="ht-box-icon style-01 single-svg-icon-box">
                                             <div class="icon-box-wrap">

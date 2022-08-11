@@ -173,7 +173,7 @@
                                         </div>
                                     </a>
                                 </div>
-                                <div class="brand-logo">
+                                <!-- <div class="brand-logo">
                                     <a href="https://www.theglobalfund.org/en/" target="_blank">
                                         <div class="brand-logo__image">
                                             <img src="assets/images/partners/theglobal.png" width="150" class="img-fluid" alt="">
@@ -182,7 +182,7 @@
                                             <img src="assets/images/partners/theglobal.png" width="150" class="img-fluid" alt="">
                                         </div>
                                     </a>
-                                </div>
+                                </div> -->
 
 
                             </div>
@@ -198,8 +198,8 @@
                     <div class="row">
                         <div class="col-md-3 col-sm-6 col-6 wow move-up">
                             <div class="fun-fact--five text-center">
-                                <div class="fun-fact__count counter">30</div>
-                                <h6 class="fun-fact__text">Startups</h6>
+                                <div class="fun-fact__count counter">463</div>
+                                <h6 class="fun-fact__text">Created Jobs</h6>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-6 wow move-up">
@@ -234,7 +234,7 @@
                             </div>
                         </div>
 
-                      
+
 
                         <div class="col-md-3 col-sm-6 wow move-up">
                             <div class="fun-fact--five text-center">
@@ -262,11 +262,11 @@
                             <!-- section-title-wrap Start -->
                             <div class="section-title-wrap text-left section-space--mb_30">
                                 <h6 class="section-sub-title mb-20">ABOUT THE HUB</h6>
-                                <h4 class="heading">The HealthTech Hub Africa is a <span class="text-color-primary">Health Tech accelerator</span> <br>
+                                <!-- <h4 class="heading">The HealthTech Hub Africa is a <span class="text-color-primary">Health Tech accelerator</span> <br>
 
                                     based in Kigali, Rwanda. The hub, located at the and powered by
                                     <span class="text-color-primary">the Novartis Foundation</span>
-                                </h4>
+                                </h4> -->
                             </div>
                             <!-- section-title-wrap Start -->
                         </div>
@@ -295,13 +295,19 @@
                         </div>
                         <div class="col-lg-7 ms-auto mt-30">
                             <div class="machine-learning-about-content">
-                                <div class="section-title mb-20">
+                                <div class="section-title ">
                                     <h4>The HealthTech Hub Innovation Program</h4>
-                                    <p class="dec-text mt-20">The HealthTech Hub Africa is a health tech accelerator based in Kigali, Rwanda. The hub, located at the Norrsken East Africa House and powered by the Novartis Foundation, hosts 30 startups from around Africa. For one full year, all the startups have unlimited access to the state-of-the-art space and are part of the HealthTech Hub Innovation Program, which includes capability-building opportunities, partner match-making with the public and private sectors, and mentorship and opportunities to test and validate their solutions in the public health system.
+                                    <!-- <p class="dec-text mt-20">The HealthTech Hub Africa is a health tech accelerator based in Kigali, Rwanda. The hub, located at the Norrsken East Africa House and powered by the Novartis Foundation, hosts 30 startups from around Africa. For one full year, all the startups have unlimited access to the state-of-the-art space and are part of the HealthTech Hub Innovation Program, which includes capability-building opportunities, partner match-making with the public and private sectors, and mentorship and opportunities to test and validate their solutions in the public health system.
+                                    </p> -->
+
+                                    <p class="dec-text ">The hub, located at the Norrsken East Africa House and powered by the Novartis Foundation, hosts startups from around Africa. All the startups from the current cohort have unlimited access to the state-of-the-art space for one full year. They are part of the HealthTech Hub Innovation Program, which includes capability-building opportunities, partner match-making with the public and private sectors, and mentorship and opportunities to test and validate their solutions in the public health system.
+
                                     </p>
                                     <div class="button-box mt-30">
-                                        <a href="startups" class="ht-btn ht-btn-md">More About The Program</a>
+                                        <a href="theprogram" class="ht-btn ht-btn-md">More About The Program</a>
+                                        <a href="challenges" class="ht-btn ht-btn-md">Application Process</a>
                                     </div>
+                                    
                                 </div>
                             </div>
                         </div>
