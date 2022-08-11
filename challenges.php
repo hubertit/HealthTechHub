@@ -109,7 +109,7 @@
                                             <div class="card-body">
                                                 <p>
                                                 <h6>The selected forty startups will benefit from:</h6>
-                                                <ul class="benefits" style="">
+                                                <ul class="benefits">
                                                     <ol type="1">
                                                         <li>A seat in the 10-month innovation program with 2 distinct tracks for the Growth Startups and the Scale ups</li>
                                                         <li>Opportunity to apply for funding to validate their solutions in public health systems in AfricaAccess to the HealthTech Hub Africa public-private partner network</li>
@@ -135,7 +135,7 @@
                                         <div id="collapseGsa" class="collapse" aria-labelledby="gsa" data-bs-parent="#accordion">
                                             <div class="card-body">
                                                 <p>
-                                                <ul class="benefits" style="">
+                                                <ul class="benefits">
                                                     <ol type="1">
                                                         <li>Minimum Viable Product is existing</li>
                                                         <li>At least 10.000 beneficiaries directly impacted by the solution</li>
@@ -160,7 +160,7 @@
                                         <div id="collapseSua" class="collapse" aria-labelledby="sua" data-bs-parent="#accordion">
                                             <div class="card-body">
                                                 <p>
-                                                <ul class="benefits" style="">
+                                                <ul class="benefits">
                                                     <ol type="1">
                                                         <li>Solution must be existing in a commercial scale</li>
                                                         <li>At least 50.000 beneficiaries directly impacted by the solution</li>
@@ -250,7 +250,7 @@
                     </div>
 
                     <div class="mt-5 d-flex justify-content-center">
-                        <a href="form/form.php" target="_blank" class="btn btn-primary">Apply Now</a>
+                        <a href="form"  class="btn btn-primary">Apply Now</a>
                     </div>
                 </div>
             </div>
@@ -285,8 +285,4 @@
 
 
 </body>
-
-
-<!-- Mirrored from htmldemo.net/mitech/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 25 Jul 2022 09:46:24 GMT -->
-
 </html>

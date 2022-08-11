@@ -198,8 +198,8 @@
                     <div class="row">
                         <div class="col-md-3 col-sm-6 col-6 wow move-up">
                             <div class="fun-fact--five text-center">
-                                <div class="fun-fact__count counter">463</div>
-                                <h6 class="fun-fact__text">Created Jobs</h6>
+                                <div class="fun-fact__count counter"> </div>
+                                <h6 class="fun-fact__text"> </h6>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-6 wow move-up">
@@ -223,7 +223,7 @@
                         <div class="col-md-3 col-sm-6 wow move-up">
                             <div class="fun-fact--five text-center">
                                 <div class="fun-fact__count ">304</div>
-                                <h6 class="fun-fact__text">Paid Jobs</h6>
+                                <h6 class="fun-fact__text">Jobs Created</h6>
                             </div>
                         </div>
 
