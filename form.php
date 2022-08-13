@@ -21,7 +21,14 @@
   <!-- Main Style CSS -->
   <link rel="stylesheet" href="assets/css/style.css">
 
-
+  <style>
+ .search-form-top, .search-field{
+  height: 40px !important;
+  min-height: 0px !important;
+  padding:0px !important;
+  margin: 0px Im !important;
+ }
+  </style>
 
 </head>
 

@@ -128,7 +128,7 @@
                                 <div id="fade" onClick="lightbox_close();"></div>
 
 
-                                <h1 class="font-weight--reguler text-white mb-15"><span class="text-color-secondary">Welcome to</span> <br> HealthTech Hub</h1>
+                                <h1 class="font-weight--reguler text-white mb-15"><span class="text-color-secondary">Welcome to</span> <br> HealthTech Hub Africa</h1>
                                 <p>We aim to help local authorities tackle the largest health challenges in low-income and underserved populations</p>
                                 <div class="hero-button mt-30">
                                     <a href="#about" class="btn btn--secondary">Our Story</a>
@@ -198,8 +198,8 @@
                     <div class="row">
                         <div class="col-md-3 col-sm-6 col-6 wow move-up">
                             <div class="fun-fact--five text-center">
-                                <div class="fun-fact__count counter"> </div>
-                                <h6 class="fun-fact__text"> </h6>
+                                <div class="fun-fact__count counter"> 30</div>
+                                <h6 class="fun-fact__text">Startups </h6>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-6 wow move-up">
@@ -262,11 +262,11 @@
                             <!-- section-title-wrap Start -->
                             <div class="section-title-wrap text-left section-space--mb_30">
                                 <h6 class="section-sub-title mb-20">ABOUT THE HUB</h6>
-                                <!-- <h4 class="heading">The HealthTech Hub Africa is a <span class="text-color-primary">Health Tech accelerator</span> <br>
+                                <h4 class="heading">The HealthTech Hub Africa is a <span class="text-color-primary">Health Tech accelerator</span> <br>
 
                                     based in Kigali, Rwanda. The hub, located at the and powered by
                                     <span class="text-color-primary">the Novartis Foundation</span>
-                                </h4> -->
+                                </h4>
                             </div>
                             <!-- section-title-wrap Start -->
                         </div>
@@ -293,18 +293,18 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-7 ms-auto mt-30">
+                        <div class="col-lg-7 ms-auto">
                             <div class="machine-learning-about-content">
                                 <div class="section-title ">
-                                    <h4>The HealthTech Hub Innovation Program</h4>
+                                    <!-- <h4>The HealthTech Hub Innovation Program</h4>
                                     <!-- <p class="dec-text mt-20">The HealthTech Hub Africa is a health tech accelerator based in Kigali, Rwanda. The hub, located at the Norrsken East Africa House and powered by the Novartis Foundation, hosts 30 startups from around Africa. For one full year, all the startups have unlimited access to the state-of-the-art space and are part of the HealthTech Hub Innovation Program, which includes capability-building opportunities, partner match-making with the public and private sectors, and mentorship and opportunities to test and validate their solutions in the public health system.
-                                    </p> -->
+                                    </p> --> 
 
-                                    <p class="dec-text ">The hub, located at the Norrsken East Africa House and powered by the Novartis Foundation, hosts startups from around Africa. All the startups from the current cohort have unlimited access to the state-of-the-art space for one full year. They are part of the HealthTech Hub Innovation Program, which includes capability-building opportunities, partner match-making with the public and private sectors, and mentorship and opportunities to test and validate their solutions in the public health system.
+                                    <p class="dec-text " style="text-align: justify;">The hub hosts startups from around Africa. All the startups from the current cohort have unlimited access to the state-of-the-art space for one full year. They are part of the HealthTech Hub Innovation Program, which includes capability-building opportunities, partner match-making with the public and private sectors, and mentorship and opportunities to test and validate their solutions in the public health system.
 
                                     </p>
                                     <div class="button-box mt-30">
-                                        <a href="theprogram" class="ht-btn ht-btn-md">More About The Program</a>
+                                        <a href="theprogram" class="ht-btn ht-btn-md mt-3">More About The Program</a>
                                         <a href="challenges" class="ht-btn ht-btn-md">Application Process</a>
                                     </div>
                                     
@@ -491,7 +491,7 @@
             <!--=========== fun fact Wrapper End ==========-->
 
             <!--====================  Contact us Section Start ====================-->
-            <div class="contact-us-section-wrappaer processing-contact-us-bg section-space--ptb_120 mt-5">
+            <div class="contact-us-section-wrappaer processing-contact-us-bg section-space--ptb_120 ">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-lg-6">
