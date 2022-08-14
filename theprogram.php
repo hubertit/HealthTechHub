@@ -212,7 +212,7 @@
                     </div>
 
                     <div class="row mt-5">
-                     
+
 
                         <div class="col-lg-12 d-flex justify-content-center">
                             <div class="grid-item animate">
@@ -226,7 +226,7 @@
                                         </div>
                                         <div class="content">
                                             <div class="text">
-                                                <ul class="benefits" style="">
+                                                <ul class="benefits">
                                                     <ol type="1">
                                                         <li>Opportunity to apply for funding to validate their solutions in public health systems in Africa</li>
                                                         <li>Access to the HealthTech Hub Africa public-private partner network</li>
@@ -240,172 +240,23 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-            <!--===========  feature-icon-wrapper  End =============-->
 
-
-
-            <div class="row">
-                <div class="col-lg-12 ht-tab-wrap">
-                    <div class="row">
-                        <div class="col-12 text-center wow move-up ">
-                            <ul class="nav justify-content-center ht-tab-menu" role="tablist">
-                                <li class="tab__item nav-item active">
-                                    <a class="nav-link active" id="nav-tab1" data-bs-toggle="tab" href="#history-tab" role="tab" aria-selected="true">Growth startups</a>
-                                </li>
-                                <li class="tab__item nav-item">
-                                    <a class="nav-link" id="nav-tab2" data-bs-toggle="tab" href="#mission-tab" role="tab" aria-selected="false">Scale-up startups</a>
-                                </li>
-
-                            </ul>
+                        <div class="col-md-4 mt-4 offset-md-4">
+                            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+                                Growth Stage Startups
+                            </button>
                         </div>
-                    </div>
-
-                    <div class="tab-content ht-tab__content wow move-up">
-
-
-                        <div class="tab-pane fade  active" id="history-tab" role="tabpanel">
-                            <div class="tab-history-wrap section-space--mt_60">
-                                <div class="row">
-
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <div class="section-title section-space--mb_60 text-center">
-                                                <h3 class="heading">Cohort <span class="text-color-primary">1</span> </h3>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <!-- brand logo slider -->
-                                            <div class="brand-logo-slider__container-area">
-                                                <div class="swiper-container brand-logo-slider__container">
-                                                    <div class="swiper-wrapper brand-logo-slider__one">
-                                                        <div class="swiper-slide brand-logo brand-logo--slider">
-                                                            <a href="https://afiapharma.com/">
-                                                                <div class="brand-logo__image">
-                                                                    <img src="assets/images/startups/cohort-1/Afiapharma.png" class="img-fluid" alt="">
-                                                                </div>
-                                                                <div class="brand-logo__image-hover">
-                                                                    <img src="assets/images/startups/cohort-1/Afiapharma.png" class="img-fluid" alt="">
-                                                                </div>
-                                                            </a>
-                                                        </div>
-                                                        <div class="swiper-slide brand-logo brand-logo--slider">
-                                                            <a href="http://companion.rw/">
-                                                                <div class="brand-logo__image">
-                                                                    <img src="assets/images/startups/cohort-1/Companionapp.jpg" class="img-fluid" alt="">
-                                                                </div>
-                                                                <div class="brand-logo__image-hover">
-                                                                    <img src="assets/images/startups/cohort-1/Companionapp.jpg" class="img-fluid" alt="">
-                                                                </div>
-                                                            </a>
-                                                        </div>
-                                                        <div class="swiper-slide brand-logo brand-logo--slider">
-                                                            <a href="http://www.flydenga.com/">
-                                                                <div class="brand-logo__image">
-                                                                    <img src="assets/images/startups/cohort-1/denga.png" class="img-fluid" alt="">
-                                                                </div>
-                                                                <div class="brand-logo__image-hover">
-                                                                    <img src="assets/images/startups/cohort-1/denga.png" class="img-fluid" alt="">
-                                                                </div>
-                                                            </a>
-                                                        </div>
-                                                        <div class="swiper-slide brand-logo brand-logo--slider">
-                                                            <a href="http://digi-dibia.com/">
-                                                                <div class="brand-logo__image">
-                                                                    <img src="assets/images/startups/cohort-1/Digidibia.jpg" class="img-fluid" alt="">
-                                                                </div>
-                                                                <div class="brand-logo__image-hover">
-                                                                    <img src="assets/images/startups/cohort-1/Digidibia.jpg" class="img-fluid" alt="">
-                                                                </div>
-                                                            </a>
-                                                        </div>
-                                                        <div class="swiper-slide brand-logo brand-logo--slider">
-                                                            <a href="http://www.dotpharma.rw/">
-                                                                <div class="brand-logo__image">
-                                                                    <img src="assets/images/startups/cohort-1/Dot-Pharma-Logo-2-bw1-no-bg.jpg" class="img-fluid" alt="">
-                                                                </div>
-                                                                <div class="brand-logo__image-hover">
-                                                                    <img src="assets/images/startups/cohort-1/Dot-Pharma-Logo-2-bw1-no-bg.jpg" class="img-fluid" alt="">
-                                                                </div>
-                                                            </a>
-                                                        </div>
-                                                        <div class="swiper-slide brand-logo brand-logo--slider">
-                                                            <a href="https://globalpreeclampsia.org/">
-                                                                <div class="brand-logo__image">
-                                                                    <img src="assets/images/startups/cohort-1/Global Pre-Eclempsia Initiative.jpg" class="img-fluid" alt="">
-                                                                </div>
-                                                                <div class="brand-logo__image-hover">
-                                                                    <img src="assets/images/startups/cohort-1/Global Pre-Eclempsia Initiative.jpg" class="img-fluid" alt="">
-                                                                </div>
-                                                            </a>
-                                                        </div>
-                                                        <div class="swiper-slide brand-logo brand-logo--slider">
-                                                            <a href="http://goal3.org/">
-                                                                <div class="brand-logo__image">
-                                                                    <img src="assets/images/startups/cohort-1/goal-3.png" class="img-fluid" alt="">
-                                                                </div>
-                                                                <div class="brand-logo__image-hover">
-                                                                    <img src="assets/images/startups/cohort-1/goal-3.png" class="img-fluid" alt="">
-                                                                </div>
-                                                            </a>
-                                                        </div>
-                                                        <div class="swiper-slide brand-logo brand-logo--slider">
-                                                            <a href="https://www.healthdart.co.za/">
-                                                                <div class="brand-logo__image">
-                                                                    <img src="assets/images/startups/cohort-1/Healthdart.png" class="img-fluid" alt="">
-                                                                </div>
-                                                                <div class="brand-logo__image-hover">
-                                                                    <img src="assets/images/startups/cohort-1/Healthdart.png" class="img-fluid" alt="">
-                                                                </div>
-                                                            </a>
-                                                        </div>
-
-                                                        <div class="swiper-slide brand-logo brand-logo--slider">
-                                                            <a href="https://my-doctor.hirwaf.com/">
-                                                                <div class="brand-logo__image">
-                                                                    <img src="assets/images/startups/cohort-1/HealthEdu Ltd.jpg" class="img-fluid" alt="">
-                                                                </div>
-                                                                <div class="brand-logo__image-hover">
-                                                                    <img src="assets/images/startups/cohort-1/HealthEdu Ltd.jpggit" class="img-fluid" alt="">
-                                                                </div>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="swiper-pagination"></div>
-
-                                                    <div class="swiper-button-prev"></div>
-                                                    <div class="swiper-button-next"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="tab-pane fade" id="mission-tab" role="tabpanel">
-                            <div class="tab-history-wrap section-space--mt_60">
-
-
-
-                            </div>
-                        </div>
-
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+    </div>
+    </div>
 
-        <?php require("templates/calltoaction.php"); ?>
+    <?php require("templates/calltoaction.php"); ?>
 
-        <?php require("templates/page-footer.php"); ?>
+    <?php require("templates/page-footer.php"); ?>
     </div>
     <!--====================  scroll top ====================-->
     <a href="#" class="scroll-top" id="scroll-top">
@@ -443,6 +294,164 @@
     </div>
     <!--====================  End of search overlay  ====================-->
 
+    <style>
+        .brand-logo__image{
+            padding: 20px;
+            /* border: solid 2px #f2f2f2; */
+        }
+    </style>
+    <!-- The Modal -->
+    <div class="modal fade" id="myModal">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">Growth Stage Startups</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-2 col-6">
+                            <a href="https://afiapharma.com/">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/Afiapharma.png" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="http://companion.rw/">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/Companionapp.jpg" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="http://www.flydenga.com/">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/denga.png" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="http://digi-dibia.com/">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/Digidibia.jpg" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="http://www.dotpharma.rw/">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/Dot-Pharma-Logo-2-bw1-no-bg.jpg" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="https://globalpreeclampsia.org/">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/Global Pre-Eclempsia Initiative.jpg" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="http://goal3.org/">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/goal-3.png" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="https://www.healthdart.co.za/">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/Healthdart.png" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="https://my-doctor.hirwaf.com/">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/HealthEdu Ltd.jpg" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="#">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/hellomed.png" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="#">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/insightiv.jpg" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="#">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/ivuzenew1.jpg" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="#">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/Kapsule.jpg" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="#">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/Klarah.png" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="#">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/Lifesten-Logo-Final-01.jpg" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="#">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/logo.jpg" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="#">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/massira-logo.jpg" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <a href="#">
+                                <div class="brand-logo__image">
+                                    <img src="assets/images/startups/cohort-1/MEDIKEA.jpg" class="img-fluid" alt="">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
     <!-- JS
     ============================================ -->
     <!-- Modernizer JS -->
@@ -461,6 +470,13 @@
 
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+
+
 
 
 </body>
