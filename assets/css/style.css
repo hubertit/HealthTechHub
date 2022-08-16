@@ -6083,9 +6083,9 @@ ul.footer-widget__horizontal-list li {
 }
 
 .ht-box-icon.style-01 .icon-box-wrap .icon {
-  height: 105px;
+  height: 300px;
   text-align: center;
-  width: 105px;
+  width: 300px;
   margin: auto;
   margin-bottom: 29px;
   color: #0211a0;
@@ -6153,7 +6153,7 @@ ul.footer-widget__horizontal-list li {
 }
 
 .partner{
-  width: 100px;
+  width: 150px;
 }
 
 .ht-box-icon.style-02 .icon-box-wrap .icon svg * {

@@ -28,7 +28,7 @@
                                      </div>
                                  </a>
                              </div>
-                             <!-- <div class="swiper-slide brand-logo brand-logo--slider">
+                             <div class="swiper-slide brand-logo brand-logo--slider">
                                  <a href="https://www.theglobalfund.org/en/" target="_blank">
                                      <div class="brand-logo__image">
                                          <img src="assets/images/partners/theglobal.png" class="img-fluid" alt="">
@@ -37,7 +37,7 @@
                                          <img src="assets/images/partners/theglobal.png" class="img-fluid" alt="">
                                      </div>
                                  </a>
-                             </div> -->
+                             </div>
 
 
                          </div>

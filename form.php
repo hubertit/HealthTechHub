@@ -415,7 +415,7 @@
               <label for="innovation">What made you work together on this idea and why is your team the best in the world for this innovation?</label>
               <textarea id="innovation" name="innovation"></textarea>
 
-              <legend><span class="number">2</span> Impact</legend>
+              <legend><span class="number">3</span> Impact</legend>
 
 
 
